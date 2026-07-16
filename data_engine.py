@@ -456,6 +456,8 @@ def build_scouting_database():
     T010: دمج البيانات بالكامل وتخزينها في جدول SQLite
     """
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+    DATA_DIR = os.path.join(BASE_DIR, 'data')
+    DB_DIR = os.path.join(BASE_DIR, 'database')
     
     # 1. جلب البيانات العميقة من StatsBomb
     df_sb = fetch_and_process_statsbomb_data()
@@ -469,7 +471,7 @@ def build_scouting_database():
     
     # 2. جلب ودمج بيانات اللاعبين من الـ CSV
     print("⏳ جاري قراءة ودمج ملفات CSV الأربعة...")
-    df_csv = merge_csv_datasets(BASE_DIR)
+    df_csv = merge_csv_datasets(DATA_DIR)
     
     # 3. الدمج الكامل بين CSV و StatsBomb
     print("⏳ جاري الدمج الكامل مع بيانات StatsBomb العميقة...")
@@ -508,7 +510,8 @@ def build_scouting_database():
     if 'norm_name' in final_df.columns:
         final_df = final_df.drop(columns=['norm_name'])
         
-    db_path = os.path.join(BASE_DIR, 'openscout_database.db')
+    db_path = os.path.join(DB_DIR, 'openscout_database.db')
+    os.makedirs(DB_DIR, exist_ok=True)
     conn = sqlite3.connect(db_path)
     
     # حفظ الجدول

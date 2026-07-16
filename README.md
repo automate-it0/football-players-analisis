@@ -1,105 +1,156 @@
-<div align="center">
-
-# ⚽ OpenScout AI Pro
-
-**النظام التكتيكي الكشفي المتقدم للاعبي كرة القدم المدعوم بالذكاء الاصطناعي**
-
-منصة ويب متكاملة مبنية بـ FastAPI وشات بوت ذكي (RAG) لتحليل وتقييم أداء لاعبي كرة القدم باستخدام البيانات الرياضية العميقة والنماذج اللغوية المحلية.
-
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.109.0-blue?logo=fastapi)](https://fastapi.tiangolo.com/)
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
-[![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-orange?logo=ollama)](https://ollama.com/)
-[![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite)](https://www.sqlite.org/)
-
-</div>
+<p align="center">
+  <h1>QA-Football-Players-Analysis</h1>
+  <p><strong>OpenScout AI Pro</strong> - الكشاف الرقمي الذكي لتحليل لاعبي كرة القدم</p>
+</p>
 
 ---
 
-## 📋 English Overview
+## نبذة عن المشروع
 
-**OpenScout AI** is an advanced scouting dashboard and RAG (Retrieval-Augmented Generation) assistant designed for football scouts and club analysts. By combining static scout attributes (e.g., Football Manager metrics, EA Sports FC ratings) with deep match-event metrics (from StatsBomb Open Data), it provides automated scout reports and an interactive chatbot helper powered by **Qwen2.5-Coder**.
+**OpenScout AI Pro** هو نظام تحليل كشفي متكامل لاعبي كرة القدم، يجمع بين تحليل البيانات الإحصائية المتقدمة والذكاء الاصطناعي المحلي لتقديم تقارير كشفية احترافية. يقوم النظام بدمج بيانات من مصادر متعددة (ملفات EA Sports FC، StatsBomb، Football Manager) في قاعدة بيانات موحدة، ثم يتيح للمستخدمين استعراض اللاعبين وتوليد تقارير كشفية بالذكاء الاصطناعي عبر واجهة ويب تفاعلية باللغة العربية.
 
-### Key Features
-- **📊 Unified Scouting Database**: Processes and aggregates player attributes from FIFA, FC25, and historical datasets using a custom Pandas data engine.
-- **⚡ StatsBomb Deep Metrics Integration**: Connects to StatsBomb APIs to calculate advanced tactical indicators like Expected Goals (xG), Expected Assists (xA), and retention under pressure.
-- **🤖 Local AI Scout Reports**: Uses Ollama with `qwen2.5-coder:1.5b` to generate contextual scout reports based on tactical team instructions.
-- **💬 Smart RAG Chatbot**: Real-time Q&A assistant that queries the SQLite database to answer custom scout queries (e.g., "Recommend a fast striker who excels under pressure").
-- **🎨 Glassmorphism UI**: Beautiful, interactive front-end dashboard featuring Chart.js radar charts and evolution timeline analytics.
+## المميزات الرئيسية
 
----
+- **دمج بيانات متعددة المصادر**: يجمع بين 4 ملفات CSV مختلفة (EA FC 2024، EA FC 2025، حراس مرمى FC 26، قاعدة بيانات Oyuncular) في قاعدة بيانات SQLite موحدة
+- **تحليل StatsBomb العميق**: يتصل تلقائياً بمستودع StatsBomb المفتوح لحساب مقاييس تكتيكية متقدمة مثل xG (الأهداف المتوقعة) و xA (الصناعة المتوقعة) وأداء اللاعبين تحت الضغط
+- **شات بوت ذكي (RAG)**: مساعد كشاف ذكي يجيب على أسئلتك باللغة العربية بناءً على البيانات الفعلية للاعبين، مع تصفية ذكية حسب نوع السؤال (سرعة، إنهاء، ضغط، صناعة لعب)
+- **تقارير كشفية بالذكاء الاصطناعي**: توليد تقارير كشفية احترافية لكل لاعب تتضمن ملخص التطور التاريخي ونقاط القوة والتوظيف التكتيكي
+- **لوحة تحكم تفاعلية**: واجهة ويب RTL كاملة تعرض رادار البيانات، رسوم بيانية تفاعلية (Chart.js)، وقائمة لاعبين مع فلترة فورية
+- **ذكاء اصطناعي محلي (اختياري)**: دعم نموذج Qwen2.5 عبر خادم OpenVINO محلي لتوليد التقارير دون الحاجة للإنترنت
+- **نظام حماية من التكرار**: كاشف ذكي يمنع التكرار اللانهائي في ردود الذكاء الاصطناعي
+- **بناء تلقائي لقاعدة البيانات**: تُبنى قاعدة البيانات تلقائياً عند أول تشغيل إذا لم تكن موجودة
 
-## 📋 نظرة عامة (Arabic Overview)
-
-**OpenScout AI** هي منصة متقدمة لمساعدة كشافي ومحللي كرة القدم في تقييم اللاعبين وتوليد التقارير التكتيكية التلقائية. يدمج النظام بين البيانات العامة للاعبين والبيانات التكتيكية العميقة للمباريات (من خوادم StatsBomb المفتوحة)، مما يتيح توليد تقارير كشفية متقدمة ودقيقة بنقرة زر واحدة.
-
-### المميزات الرئيسية:
-- **📊 محرك معالجة البيانات (Pandas Engine)**: تجميع وتوحيد خصائص اللاعبين من قواعد بيانات FIFA و Football Manager وتصحيح الأسماء تلقائياً.
-- **⚡ مقاييس StatsBomb العميقة**: احتساب الأهداف المتوقعة (xG)، الصناعة المتوقعة (xA)، ودقة التمريرات وتأثير الضغط.
-- **🤖 تقارير الذكاء الاصطناعي المحلية**: توليد تقارير كشفية ذكية ومتخصصة باستخدام نموذج `qwen2.5-coder` المحلي بالتوافق مع التكتيكات المختلفة (تيكي تاكا، ضغط عالي، مرتدات).
-- **💬 مساعد الكشاف الذكي (RAG Chat)**: شات بوت يستند إلى قاعدة بيانات اللاعبين للإجابة عن أسئلتك الكشفية وترشيح اللاعبين بالأرقام.
-- **🎨 واجهة مستخدم تكتيكية**: تصميم عصري (Glassmorphism) مع رسوم بيانية تفاعلية (Radar Charts & Line Charts) لمتابعة مهارات وتطور اللاعبين.
-
----
-
-## 🛠️ التقنيات المستخدمة (Tech Stack)
-
-| التقنية | الاستخدام |
-|---------|-----------|
-| **FastAPI** | خادم الويب الأساسي والـ API Endpoints |
-| **Python / Pandas** | معالجة وتنظيف ودمج قواعد البيانات الضخمة |
-| **SQLite** | قاعدة البيانات المحلية لحفظ أرقام اللاعبين النهائية |
-| **Ollama (Qwen2.5-Coder)** | توليد تقارير كشفية ذكية والإجابة عن شات بوت الـ RAG محلياً |
-| **Chart.js** | الرسوم البيانية التفاعلية للواجهة |
-| **Tailwind CSS** | تصميم وتنسيق الواجهات مع واجهة داكنة متطورة |
-
----
-
-## 📁 هيكل المشروع (Project Layout)
+## هيكل المشروع
 
 ```
-football-players-analysis/
-├── app.py                  # خادم FastAPI المطور والواجهات والـ API
-├── data_engine.py          # محرك معالجة البيانات وسحب إحصائيات StatsBomb وبناء SQLite
-├── harsh_tests.py          # اختبارات الجودة وحالات الحافة
-├── qwen_server.py          # واجهة الاتصال وتشغيل النموذج المحلي
-├── README.md               # هذا الملف
-├── .gitignore              # ملفات Git المتجاهلة
-├── *.csv                   # ملفات البيانات الخام للاعبين (EA FC, Goalkeepers, players)
-└── openscout_database.db   # قاعدة البيانات النهائية (⚠️ يتم توليدها محلياً)
+QA-football-players-analisis/
+├── app.py                  # خادم FastAPI الرئيسي + واجهة الويب + واجهات API
+├── data_engine.py          # محرك البيانات: استيراد CSV، دمج، حساب المقاييس، بناء قاعدة البيانات
+├── qwen_server.py          # خادم نموذج Qwen2.5 المحلي (OpenVINO)
+├── requirements.txt        # متطلبات المكتبات
+├── .gitignore              # ملفات Git المُستبعدة
+│
+├── data/                   # ملفات البيانات الخام (CSV)
+│   ├── all_players.csv              # بيانات اللاعبين 2024
+│   ├── ea_sports_fc25_full.csv      # بيانات EA Sports FC 25 (2025)
+│   ├── ea_fc26_goalkeepers.csv      # بيانات حراس المرمى FC 26
+│   └── oyuncular.csv                # قاعدة بيانات إضافية
+│
+├── database/               # قاعدة البيانات
+│   └── openscout_database.db.bak    # نسخة احتياطية (يُنشأ تلقائياً openscout_database.db عند التشغيل)
+│
+├── tests/                  # الاختبارات
+│   └── harsh_tests.py              # مجموعة اختبارات صارمة (سلامة DB، استقرار API، كشف التكرار)
+│
+└── docs/                   # الوثائق
+    └── AGENTS.md                    # مواصفات الوكلاء
 ```
 
----
-
-## 🚀 التشغيل المحلي (Quick Start)
+## التثبيت والتشغيل
 
 ### المتطلبات الأساسية
-- **Python 3.10+**
-- **Ollama** مثبت ومفعّل على جهازك.
+- Python 3.9 أو أحدث
+- pip
 
-### 1. تثبيت النموذج المحلي (Ollama)
-قم بتحميل نموذج Qwen المخصص للأكواد البرمجية والمهمات التحليلية:
+### خطوات التثبيت
+
+1. **استنساخ المشروع وفتح المجلد:**
+   ```bash
+   cd QA-football-players-analisis
+   ```
+
+2. **تثبيت المكتبات المطلوبة:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **تشغيل الخادم الرئيسي:**
+   ```bash
+   uvicorn app:app --host 0.0.0.0 --port 8000 --reload
+   ```
+
+4. **فتح المتصفح على:**
+   ```
+   http://localhost:8000
+   ```
+
+### تشغيل خادم الذكاء الاصطناعي المحلي (اختياري)
+
+لتوليد التقارير الكشفية بالذكاء الاصطناعي، تحتاج لتشغيل خادم Qwen2.5 على منفذ 11434:
+
 ```bash
-ollama pull qwen2.5-coder:1.5b
+python qwen_server.py
 ```
 
-### 2. تثبيت المكتبات المطلوبة
+> **ملاحظة:** يتطلب هذا تثبيت مكتبة `openvino_genai` وتوفير ملفات نموذج Qwen2.5 المحول بصيغة OpenVINO. بدون هذا الخادم، ستعمل جميع الوظائف الأخرى بشكل طبيعي مع إشعار مناسب عند محاولة توليد تقرير.
+
+## واجهات API
+
+| الطريقة | المسار | الوصف |
+|---------|--------|-------|
+| `GET` | `/` | لوحة التحكم الرئيسية (HTML) |
+| `GET` | `/api/players` | جلب قائمة جميع اللاعبين مرتبة حسب xG |
+| `POST` | `/api/chat` | إرسال رسالة للشات بوت الذكي (RAG) |
+| `POST` | `/api/report` | توليد تقرير كشفي AI للاعب محدد |
+
+### مثال: إرسال رسالة للشات بوت
 ```bash
-pip install fastapi uvicorn pandas numpy statsbombpy requests striprtf pydantic
+curl -X POST http://localhost:8000/api/chat \
+  -H "Content-Type: application/json" \
+  -d '{"message": "من هو أسرع لاعب؟"}'
 ```
 
-### 3. بناء قاعدة البيانات
-قم بتشغيل محرك البيانات لسحب مباريات بطولة أمم إفريقيا ودمجها مع أرقام اللاعبين وبناء قاعدة البيانات المحلية:
+### مثال: توليد تقرير كشفي
 ```bash
-python data_engine.py
+curl -X POST http://localhost:8000/api/report \
+  -H "Content-Type: application/json" \
+  -d '{
+    "player_name": "Mohamed Salah",
+    "position": "RW",
+    "pace": 18,
+    "finishing": 18,
+    "composure": 18,
+    "off_the_ball": 19,
+    "vision": 18,
+    "total_xG": 1.5,
+    "total_xA": 0.8,
+    "pass_success_under_pressure_pct": 72.5
+  }'
 ```
 
-### 4. تشغيل خادم الويب
+## تشغيل الاختبارات
+
 ```bash
-python app.py
+python tests/harsh_tests.py
 ```
-افتح المتصفح على: `http://127.0.0.1:8000`
+
+تشمل الاختبارات:
+- فحص سلامة قاعدة البيانات والأعمدة المطلوبة
+- اختبار منطق كاشف التكرار اللانهائي
+- اختبار تحمل الضغط على واجهة API (20 طلب متتالي)
+- اختبار حدود الذكاء الاصطناعي ومنع التكرار
+
+## مصادر البيانات
+
+| المصدر | الملف | المحتوى |
+|--------|-------|---------|
+| All Players 2024 | `all_players.csv` | بيانات شاملة لللاعبين (PAC, Finishing, Composure, OVR, Vision) |
+| EA Sports FC 25 | `ea_sports_fc25_full.csv` | بيانات محدثة لعام 2025 |
+| EA FC 26 Goalkeepers | `ea_fc26_goalkeepers.csv` | بيانات خاصة بحراس المرمى |
+| StatsBomb (API) | اتصال مباشر | xG, xA, أداء تحت الضغط - بطولة أمم إفريقيا 2023 |
+
+## التقنيات المستخدمة
+
+- **Backend:** FastAPI, Python 3.9+
+- **تحليل البيانات:** Pandas, NumPy
+- **قاعدة البيانات:** SQLite
+- **الذكاء الاصطناعي:** Qwen2.5 (OpenVINO) - اختياري
+- **الواجهة الأمامية:** Tailwind CSS, Chart.js, HTML5
+- **بيانات كرة القدم:** StatsBomb API, EA Sports FC datasets
 
 ---
 
-## 📄 الترخيص
-هذا المشروع مخصص لعرض المهارات التحليلية والبرمجية (Portfolio Project) — جميع الحقوق محفوظة.
+<div align="center">
+  <p><strong>تم صنعه بواسطة qa orders owner</strong></p>
+  <p>OpenScout AI Pro &copy; 2025</p>
+</div>

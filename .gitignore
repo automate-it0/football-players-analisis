@@ -8,9 +8,9 @@ env/
 dist/
 build/
 
-# Local Database
-*.db
-openscout_database.db
+# Database (يُنشأ تلقائياً عند التشغيل)
+database/*.db
+database/*.bak
 
 # OS
 .DS_Store

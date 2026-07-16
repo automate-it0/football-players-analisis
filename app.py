@@ -26,7 +26,9 @@ report_cache = {} # Cache for AI reports (Phase 5)
 app = FastAPI(title="OpenScout AI Pro Dashboard")
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-DB_PATH = os.path.join(BASE_DIR, 'openscout_database.db')
+DATA_DIR = os.path.join(BASE_DIR, 'data')
+DB_DIR = os.path.join(BASE_DIR, 'database')
+DB_PATH = os.path.join(DB_DIR, 'openscout_database.db')
 LOCAL_LLM_URL = "http://localhost:11434/api/generate" 
 
 def clean_repetitions(text: str) -> str:

@@ -2,6 +2,9 @@ import os
 import sqlite3
 import time
 import sys
+
+# إضافة المسار الجذر للمشروع إلى sys.path لاستيراد app.py
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
 from app import app, DB_PATH
 from fastapi.testclient import TestClient
 

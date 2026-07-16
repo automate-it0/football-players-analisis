@@ -1,0 +1,1001 @@
+,Name,Height,Weight,Position,Foot,Pace,Shooting,Passing,Dribbling,Defending,Physicality,Age,Nation,League,Team
+0,Kylian Mbappé,"182cm / 6'0""",75kg / 165lb,ST,Right,97,90,80,92,36,78,26,France,LALIGA EA SPORTS,Real Madrid
+1,Rodri,"191cm / 6'3""",82kg / 181lb,CDM,Right,66,80,86,84,87,85,28,Spain,Premier League,Manchester City
+2,Aitana Bonmatí,"162cm / 5'4""",53kg / 117lb,CM,Right,81,86,86,91,77,75,27,Spain,Liga F,FC Barcelona
+3,Erling Haaland,"195cm / 6'5""",94kg / 207lb,ST,Left,88,92,70,81,45,88,24,Norway,Premier League,Manchester City
+4,Jude Bellingham,"186cm / 6'1""",75kg / 165lb,CAM,Right,80,87,83,88,78,83,21,England,LALIGA EA SPORTS,Real Madrid
+5,Alexia Putellas,"173cm / 5'8""",69kg / 152lb,CM,Left,82,89,90,91,72,78,31,Spain,Liga F,FC Barcelona
+6,Vini Jr.,"176cm / 5'9""",73kg / 161lb,LW,Right,95,84,81,91,29,69,24,Brazil,LALIGA EA SPORTS,Real Madrid
+7,Caroline Graham Hansen,"175cm / 5'9""",59kg / 130lb,RW,Right,89,87,88,90,47,76,30,Norway,Liga F,FC Barcelona
+8,Kevin De Bruyne,"181cm / 5'11""",75kg / 165lb,CM,Right,67,87,94,87,65,78,33,Belgium,Premier League,Manchester City
+9,Sam Kerr,"168cm / 5'6""",66kg / 146lb,ST,Right,85,88,74,90,42,83,31,Australia,Barclays WSL,Chelsea
+10,Harry Kane,"188cm / 6'2""",86kg / 190lb,ST,Right,65,93,84,83,49,82,31,England,Bundesliga,FC Bayern München
+11,Martin Ødegaard,"178cm / 5'10""",68kg / 150lb,CM,Left,70,82,89,89,67,66,26,Norway,Premier League,Arsenal
+12,Gianluigi Donnarumma,"196cm / 6'5""",90kg / 198lb,GK,Right,90,84,73,90,52,87,26,Italy,Ligue 1 McDonald's,Paris SG
+13,Sophia Smith,"164cm / 5'5""",58kg / 128lb,ST,Right,93,86,79,89,45,84,24,United States,NWSL,Portland Thorns
+14,Alisson,"193cm / 6'4""",91kg / 201lb,GK,Right,86,85,85,89,56,90,32,Brazil,Premier League,Liverpool
+15,Thibaut Courtois,"200cm / 6'7""",96kg / 212lb,GK,Left,85,89,76,90,46,88,32,Belgium,LALIGA EA SPORTS,Real Madrid
+16,Ada Hegerberg,"176cm / 5'9""",68kg / 150lb,ST,Right,74,89,77,86,39,79,29,Norway,Arkema PL,OL
+17,Lautaro Martínez,"174cm / 5'9""",72kg / 159lb,ST,Right,82,88,75,87,54,85,27,Argentina,Serie A Enilive,Lombardia FC
+18,Mapi León,"170cm / 5'7""",58kg / 128lb,CB,Left,75,73,83,76,90,82,29,Spain,Liga F,FC Barcelona
+19,Virgil van Dijk,"193cm / 6'4""",92kg / 203lb,CB,Right,78,60,71,71,89,86,33,Holland,Premier League,Liverpool
+20,Marc-André ter Stegen,"187cm / 6'2""",85kg / 187lb,GK,Right,86,85,89,91,47,86,32,Germany,LALIGA EA SPORTS,FC Barcelona
+21,Mohamed Salah,"175cm / 5'9""",72kg / 159lb,RW,Left,89,87,82,88,45,75,32,Egypt,Premier League,Liverpool
+22,Phil Foden,"171cm / 5'7""",69kg / 152lb,RW,Left,86,86,85,90,57,63,24,England,Premier League,Manchester City
+23,Marie Katoto,"177cm / 5'10""",66kg / 146lb,ST,Right,85,87,77,84,39,74,26,France,Arkema PL,Paris SG
+24,Lionel Messi,"169cm / 5'7""",67kg / 148lb,RW,Left,79,85,87,92,33,64,37,Argentina,MLS,Inter Miami CF
+25,Debinha,"155cm / 5'1""",52kg / 115lb,CAM,Right,84,81,87,91,46,68,33,Brazil,NWSL,KC Current
+26,Kadidiatou Diani,"168cm / 5'6""",64kg / 141lb,RW,Right,90,85,81,88,56,79,29,France,Arkema PL,OL
+27,Antoine Griezmann,"176cm / 5'9""",73kg / 161lb,ST,Left,80,88,87,89,59,75,33,France,LALIGA EA SPORTS,Atlético de Madrid
+28,Rúben Dias,"187cm / 6'2""",82kg / 181lb,CB,Right,67,39,70,69,89,87,27,Portugal,Premier League,Manchester City
+29,Robert Lewandowski,"185cm / 6'1""",81kg / 179lb,ST,Right,75,88,79,86,44,84,36,Poland,LALIGA EA SPORTS,FC Barcelona
+30,Patri Guijarro,"171cm / 5'7""",74kg / 163lb,CDM,Right,78,82,83,87,85,77,26,Spain,Liga F,FC Barcelona
+31,Federico Valverde,"182cm / 6'0""",78kg / 172lb,CM,Right,88,82,84,84,80,84,26,Uruguay,LALIGA EA SPORTS,Real Madrid
+32,Ederson,"188cm / 6'2""",86kg / 190lb,GK,Left,87,82,91,87,64,86,31,Brazil,Premier League,Manchester City
+33,Bernardo Silva,"173cm / 5'8""",64kg / 141lb,CM,Left,75,78,86,92,71,69,30,Portugal,Premier League,Manchester City
+34,Beth Mead,"163cm / 5'4""",58kg / 128lb,RW,Right,82,84,84,88,67,73,29,England,Barclays WSL,Arsenal
+35,Wendie Renard,"187cm / 6'2""",70kg / 154lb,CB,Right,48,66,71,69,91,84,34,France,Arkema PL,OL
+36,Guro Reiten,"167cm / 5'6""",60kg / 132lb,LM,Left,88,80,85,86,60,66,30,Norway,Barclays WSL,Chelsea
+37,Jan Oblak,"188cm / 6'2""",87kg / 192lb,GK,Right,85,90,78,87,46,86,32,Slovenia,LALIGA EA SPORTS,Atlético de Madrid
+38,Irene Paredes,"178cm / 5'10""",67kg / 148lb,CB,Right,71,51,67,68,89,84,33,Spain,Liga F,FC Barcelona
+39,Antonio Rüdiger,"190cm / 6'3""",86kg / 190lb,CB,Right,82,55,73,70,86,86,32,Germany,LALIGA EA SPORTS,Real Madrid
+40,Christiane Endler,"183cm / 6'0""",73kg / 161lb,GK,Left,87,82,84,90,42,89,33,Chile,Arkema PL,OL
+41,Florian Wirtz,"177cm / 5'10""",71kg / 157lb,CAM,Right,81,78,87,89,50,67,21,Germany,Bundesliga,Leverkusen
+42,Gregor Kobel,"195cm / 6'5""",88kg / 194lb,GK,Right,87,86,73,89,44,87,27,Switzerland,Bundesliga,Borussia Dortmund
+43,William Saliba,"193cm / 6'4""",85kg / 187lb,CB,Right,82,39,70,74,87,83,23,France,Premier League,Arsenal
+44,Victor Osimhen,"186cm / 6'1""",77kg / 170lb,ST,Right,89,84,65,81,42,82,26,Nigeria,Trendyol Süper Lig,Galatasaray
+45,Jamal Musiala,"184cm / 6'0""",72kg / 159lb,CAM,Right,84,81,78,90,63,64,22,Germany,Bundesliga,FC Bayern München
+46,Bukayo Saka,"178cm / 5'10""",65kg / 143lb,RW,Left,85,83,81,88,60,70,23,England,Premier League,Arsenal
+47,Alexandra Popp,"174cm / 5'9""",65kg / 143lb,ST,Left,76,87,75,80,52,90,33,Germany,GPFBL,VfL Wolfsburg
+48,Paulo Dybala,"177cm / 5'10""",75kg / 165lb,CAM,Left,80,85,84,89,41,65,31,Argentina,Serie A Enilive,AS Roma
+49,Theo Hernández,"184cm / 6'0""",81kg / 179lb,LB,Left,95,76,78,84,81,89,27,France,Serie A Enilive,Milano FC
+50,Sakina Karchaoui,"160cm / 5'3""",55kg / 121lb,LB,Left,89,66,82,87,80,65,29,France,Arkema PL,Paris SG
+51,Neymar Jr,"175cm / 5'9""",68kg / 150lb,LW,Right,85,79,84,92,37,60,33,Brazil,ROSHN Saudi League,Al Hilal
+52,Declan Rice,"185cm / 6'1""",80kg / 176lb,CDM,Right,73,72,82,79,84,85,26,England,Premier League,Arsenal
+53,Mallory Swanson,"163cm / 5'4""",54kg / 119lb,LM,Right,89,81,80,85,42,71,26,United States,NWSL,Chicago Red Stars
+54,Frenkie de Jong,"181cm / 5'11""",74kg / 163lb,CM,Right,82,69,86,87,77,78,27,Holland,LALIGA EA SPORTS,FC Barcelona
+55,Mike Maignan,"191cm / 6'3""",89kg / 196lb,GK,Right,84,83,85,88,64,84,29,France,Serie A Enilive,Milano FC
+56,Bruno Fernandes,"179cm / 5'10""",69kg / 152lb,CAM,Right,70,85,88,83,65,75,30,Portugal,Premier League,Man Utd
+57,Rose Lavelle,"163cm / 5'4""",56kg / 123lb,CAM,Left,86,79,84,87,45,63,29,United States,NWSL,NJ/NY Gotham
+58,Heung Min Son,"183cm / 6'0""",78kg / 172lb,ST,Right,87,89,81,85,42,73,32,Korea Republic,Premier League,Spurs
+59,Marquinhos,"183cm / 6'0""",75kg / 165lb,CB,Right,79,56,75,74,89,81,30,Brazil,Ligue 1 McDonald's,Paris SG
+60,Alessandro Bastoni,"190cm / 6'3""",75kg / 165lb,CB,Left,75,43,75,76,87,83,25,Italy,Serie A Enilive,Lombardia FC
+61,İlkay Gündoğan,"180cm / 5'11""",80kg / 176lb,CM,Right,62,83,85,87,74,73,34,Germany,Premier League,Manchester City
+62,Ewa Pajor,"167cm / 5'6""",61kg / 134lb,ST,Right,88,88,63,89,21,70,28,Poland,Liga F,FC Barcelona
+63,Emiliano Martínez,"195cm / 6'5""",88kg / 194lb,GK,Right,84,82,83,86,56,87,32,Argentina,Premier League,Aston Villa
+64,Nicolò Barella,"172cm / 5'8""",68kg / 150lb,CM,Right,81,78,83,86,80,82,28,Italy,Serie A Enilive,Lombardia FC
+65,Yann Sommer,"183cm / 6'0""",77kg / 170lb,GK,Right,83,84,85,89,50,86,36,Switzerland,Serie A Enilive,Lombardia FC
+66,Cristiano Ronaldo,"187cm / 6'2""",85kg / 187lb,ST,Right,77,88,77,80,34,77,40,Portugal,ROSHN Saudi League,Al Nassr
+67,Gabriel,"190cm / 6'3""",87kg / 192lb,CB,Left,69,41,63,61,86,82,27,Brazil,Premier League,Arsenal
+68,Granit Xhaka,"186cm / 6'1""",80kg / 176lb,CDM,Left,50,75,85,74,79,82,32,Switzerland,Bundesliga,Leverkusen
+69,Khadija Shaw,"180cm / 5'11""",70kg / 154lb,ST,Right,69,86,71,78,32,85,28,Jamaica,Barclays WSL,Manchester City
+70,Rodrygo,"174cm / 5'9""",64kg / 141lb,RW,Right,89,81,79,88,31,64,24,Brazil,LALIGA EA SPORTS,Real Madrid
+71,João Cancelo,"182cm / 6'0""",74kg / 163lb,LB,Right,81,73,85,85,80,72,30,Portugal,ROSHN Saudi League,Al Hilal
+72,Rafael Leão,"188cm / 6'2""",81kg / 179lb,LW,Right,94,79,80,87,28,77,25,Portugal,Serie A Enilive,Milano FC
+73,Fridolina Rolfö,"179cm / 5'10""",69kg / 152lb,LB,Left,82,83,82,87,83,84,31,Sweden,Liga F,FC Barcelona
+74,Grimaldo,"171cm / 5'7""",68kg / 150lb,LM,Left,74,73,88,85,76,71,29,Spain,Bundesliga,Leverkusen
+75,Luka Modrić,"172cm / 5'8""",66kg / 146lb,CM,Right,72,76,88,87,71,64,39,Croatia,LALIGA EA SPORTS,Real Madrid
+76,Selma Bacha,"161cm / 5'3""",58kg / 128lb,LB,Left,87,73,85,82,79,79,24,France,Arkema PL,OL
+77,Alexis Mac Allister,"176cm / 5'9""",72kg / 159lb,CM,Right,69,82,85,84,76,76,26,Argentina,Premier League,Liverpool
+78,Lauren Hemp,"164cm / 5'5""",59kg / 130lb,LW,Left,90,76,84,87,63,70,24,England,Barclays WSL,Manchester City
+79,Carvajal,"173cm / 5'8""",73kg / 161lb,RB,Right,81,58,79,81,81,79,33,Spain,LALIGA EA SPORTS,Real Madrid
+80,Mary Earps,"173cm / 5'8""",68kg / 150lb,GK,Right,83,83,83,85,41,85,32,England,Arkema PL,Paris SG
+81,Ousmane Dembélé,"178cm / 5'10""",67kg / 148lb,RW,Left,92,75,82,88,41,57,27,France,Ligue 1 McDonald's,Paris SG
+82,Lauren James,"175cm / 5'9""",77kg / 170lb,RW,Right,89,81,80,87,40,82,23,England,Barclays WSL,Chelsea
+83,Lena Oberdorf,"174cm / 5'9""",68kg / 150lb,CDM,Right,62,62,76,75,87,89,23,Germany,GPFBL,FC Bayern München
+84,Trent Alexander-Arnold,"180cm / 5'11""",72kg / 159lb,RB,Right,75,72,90,80,80,74,26,England,Premier League,Liverpool
+85,Pedri,"174cm / 5'9""",60kg / 132lb,CM,Right,77,69,82,88,70,74,22,Spain,LALIGA EA SPORTS,FC Barcelona
+86,Grace Geyoro,"168cm / 5'6""",61kg / 134lb,CM,Right,79,72,82,83,83,79,27,France,Arkema PL,Paris SG
+87,Jonathan Tah,"195cm / 6'5""",94kg / 207lb,CB,Right,71,38,60,62,86,84,29,Germany,Bundesliga,Leverkusen
+88,Karim Benzema,"185cm / 6'1""",81kg / 179lb,ST,Right,77,85,81,84,38,77,37,France,ROSHN Saudi League,Al Ittihad
+89,Bremer,"187cm / 6'2""",84kg / 185lb,CB,Right,82,50,58,66,86,85,27,Brazil,Serie A Enilive,Juventus
+90,Joshua Kimmich,"177cm / 5'10""",75kg / 165lb,RB,Right,69,74,88,84,81,77,30,Germany,Bundesliga,FC Bayern München
+91,Chloe Kelly,"168cm / 5'6""",58kg / 128lb,RW,Right,88,79,85,85,43,68,27,England,Barclays WSL,Manchester City
+92,Unai Simón,"190cm / 6'3""",89kg / 196lb,GK,Right,85,81,78,86,49,85,27,Spain,LALIGA EA SPORTS,Athletic Club
+93,Lindsey Horan,"175cm / 5'9""",67kg / 148lb,CM,Right,77,84,86,84,63,79,30,United States,Arkema PL,OL
+94,Lea Schüller,"173cm / 5'8""",60kg / 132lb,ST,Right,87,83,70,82,33,74,27,Germany,GPFBL,FC Bayern München
+95,Manuel Neuer,"193cm / 6'4""",93kg / 205lb,GK,Right,83,81,90,83,49,88,38,Germany,Bundesliga,FC Bayern München
+96,Jill Roord,"175cm / 5'9""",63kg / 139lb,CAM,Right,75,84,84,85,52,73,27,Holland,Barclays WSL,Manchester City
+97,Kim Little,"162cm / 5'4""",57kg / 126lb,CM,Right,76,78,83,88,62,66,34,Scotland,Barclays WSL,Arsenal
+98,Hakan Çalhanoğlu,"178cm / 5'10""",69kg / 152lb,CDM,Right,71,80,87,85,79,76,31,Turkey,Serie A Enilive,Lombardia FC
+99,Khvicha Kvaratskhelia,"183cm / 6'0""",70kg / 154lb,LW,Right,86,79,80,86,41,71,24,Georgia,Serie A Enilive,SSC Napoli
+100,David Alaba,"180cm / 5'11""",78kg / 172lb,CB,Left,79,71,83,80,85,77,32,Austria,LALIGA EA SPORTS,Real Madrid
+101,Ronald Araujo,"188cm / 6'2""",79kg / 174lb,CB,Right,82,53,64,62,85,84,26,Uruguay,LALIGA EA SPORTS,FC Barcelona
+102,Ona Batlle,"160cm / 5'3""",51kg / 112lb,LB,Right,80,50,78,80,80,71,25,Spain,Liga F,FC Barcelona
+103,Julian Brandt,"185cm / 6'1""",83kg / 183lb,CAM,Right,71,79,85,86,50,70,28,Germany,Bundesliga,Borussia Dortmund
+104,Millie Bright,"178cm / 5'10""",76kg / 168lb,CB,Right,57,50,69,58,86,87,31,England,Barclays WSL,Chelsea
+105,Lucy Bronze,"172cm / 5'8""",70kg / 154lb,RB,Right,71,68,80,79,84,87,33,England,Barclays WSL,Chelsea
+106,Rachel Daly,"167cm / 5'6""",62kg / 137lb,ST,Right,77,85,76,82,64,76,33,England,Barclays WSL,Aston Villa
+107,Caitlin Foord,"169cm / 5'7""",61kg / 134lb,LW,Right,87,78,80,83,45,70,30,Australia,Barclays WSL,Arsenal
+108,Merle Frohms,"175cm / 5'9""",60kg / 132lb,GK,Right,85,82,76,84,51,86,30,Germany,GPFBL,VfL Wolfsburg
+109,Éder Militão,"186cm / 6'1""",78kg / 172lb,CB,Right,85,50,69,71,85,82,27,Brazil,LALIGA EA SPORTS,Real Madrid
+110,Cristiana Girelli,"174cm / 5'9""",64kg / 141lb,ST,Right,80,85,70,80,46,78,34,Italy,Calcio A Femminile,Juventus
+111,Bruno Guimarães,"182cm / 6'0""",74kg / 163lb,CDM,Right,68,75,83,84,79,83,27,Brazil,Premier League,Newcastle Utd
+112,Kathrin Hendrich,"173cm / 5'8""",55kg / 121lb,CB,Right,73,44,70,73,86,76,32,Germany,GPFBL,VfL Wolfsburg
+113,Svenja Huth,"163cm / 5'4""",54kg / 119lb,RM,Right,82,71,82,85,52,68,34,Germany,GPFBL,VfL Wolfsburg
+114,Alexander Isak,"192cm / 6'4""",77kg / 170lb,ST,Right,85,84,73,86,39,74,25,Sweden,Premier League,Newcastle Utd
+115,N'Golo Kanté,"168cm / 5'6""",70kg / 154lb,CDM,Right,76,65,73,80,85,78,33,France,ROSHN Saudi League,Al Ittihad
+116,Jules Koundé,"180cm / 5'11""",75kg / 165lb,RB,Right,84,45,70,75,86,80,26,France,LALIGA EA SPORTS,FC Barcelona
+117,Ashley Lawrence,"164cm / 5'5""",60kg / 132lb,RB,Right,84,67,82,80,82,77,29,Canada,Barclays WSL,Chelsea
+118,Eugénie Le Sommer,"161cm / 5'3""",58kg / 128lb,ST,Right,70,85,79,85,43,74,35,France,Arkema PL,OL
+119,Vitinha,"172cm / 5'8""",64kg / 141lb,CM,Right,72,77,84,87,73,68,25,Portugal,Ligue 1 McDonald's,Paris SG
+120,James Maddison,"175cm / 5'9""",73kg / 161lb,CAM,Right,71,81,86,86,54,63,28,England,Premier League,Spurs
+121,Riyad Mahrez,"179cm / 5'10""",67kg / 148lb,RM,Left,79,81,81,88,39,62,34,Algeria,ROSHN Saudi League,Al Ahli
+122,Giorgi Mamardashvili,"199cm / 6'6""",88kg / 194lb,GK,Left,86,83,72,85,48,85,24,Georgia,LALIGA EA SPORTS,Valencia CF
+123,Clara Mateo,"168cm / 5'6""",60kg / 132lb,RM,Right,84,83,80,84,59,73,27,France,Arkema PL,Paris FC
+124,Katie McCabe,"164cm / 5'5""",55kg / 121lb,LB,Left,80,74,80,80,81,82,29,Republic of Ireland,Barclays WSL,Arsenal
+125,Mikel Merino,"189cm / 6'2""",83kg / 183lb,CM,Left,72,79,82,82,83,82,28,Spain,Premier League,Arsenal
+126,Vivianne Miedema,"178cm / 5'10""",65kg / 143lb,ST,Right,82,84,70,85,32,80,28,Holland,Barclays WSL,Manchester City
+127,Sergej Milinković-Savić,"192cm / 6'4""",95kg / 209lb,CM,Right,64,80,81,82,78,88,30,Serbia,ROSHN Saudi League,Al Hilal
+128,Chiamaka Nnadozie,"180cm / 5'11""",69kg / 152lb,GK,Right,84,83,80,86,63,84,24,Nigeria,Arkema PL,Paris FC
+129,Loïs Openda,"177cm / 5'10""",75kg / 165lb,ST,Right,93,84,69,81,31,79,25,Belgium,Bundesliga,RB Leipzig
+130,Asisat Oshoala,"169cm / 5'7""",60kg / 132lb,ST,Right,91,84,78,85,50,85,30,Nigeria,NWSL,Bay FC
+131,Palhinha,"190cm / 6'3""",83kg / 183lb,CDM,Right,52,68,72,74,85,90,29,Portugal,Bundesliga,FC Bayern München
+132,Cole Palmer,"189cm / 6'2""",74kg / 163lb,RM,Left,75,82,83,86,50,66,22,England,Premier League,Chelsea
+133,Andrew Robertson,"178cm / 5'10""",64kg / 141lb,LB,Left,78,61,82,79,81,78,30,Scotland,Premier League,Liverpool
+134,Alessia Russo,"173cm / 5'8""",64kg / 141lb,ST,Right,82,83,69,84,39,72,26,England,Barclays WSL,Arsenal
+135,Leroy Sané,"183cm / 6'0""",80kg / 176lb,RM,Left,90,83,80,86,37,70,29,Germany,Bundesliga,FC Bayern München
+136,Becky Sauerbrunn,"170cm / 5'7""",64kg / 141lb,CB,Right,61,44,61,69,87,83,39,United States,NWSL,Portland Thorns
+137,Nico Schlotterbeck,"191cm / 6'3""",86kg / 190lb,CB,Left,77,59,70,73,85,82,25,Germany,Bundesliga,Borussia Dortmund
+138,Kailen Sheridan,"176cm / 5'9""",72kg / 159lb,GK,Right,85,82,80,85,41,84,29,Canada,NWSL,San Diego Wave
+139,John Stones,"188cm / 6'2""",76kg / 168lb,CB,Right,69,58,75,79,85,77,30,England,Premier League,Manchester City
+140,Aurélien Tchouaméni,"188cm / 6'2""",82kg / 181lb,CDM,Right,73,69,79,78,82,82,25,France,LALIGA EA SPORTS,Real Madrid
+141,Diogo Jota,"178cm / 5'10""",70kg / 154lb,ST,Right,82,82,75,84,57,79,28,Portugal,Premier League,Liverpool
+142,Sandro Tonali,"181cm / 5'11""",79kg / 174lb,CDM,Right,84,74,81,81,82,82,24,Italy,Premier League,Newcastle Utd
+143,Keira Walsh,"165cm / 5'5""",64kg / 141lb,CDM,Right,64,46,81,79,79,74,27,England,Liga F,FC Barcelona
+144,Ollie Watkins,"180cm / 5'11""",70kg / 154lb,ST,Right,85,83,73,80,50,83,29,England,Premier League,Aston Villa
+145,Nico Williams,"181cm / 5'11""",67kg / 148lb,LM,Right,93,75,78,86,36,65,22,Spain,LALIGA EA SPORTS,Athletic Club
+146,Leah Williamson,"170cm / 5'7""",57kg / 126lb,CB,Right,74,45,73,72,86,76,27,England,Barclays WSL,Arsenal
+147,Francesco Acerbi,"192cm / 6'4""",88kg / 194lb,CB,Left,60,50,64,65,86,80,37,Italy,Serie A Enilive,Lombardia FC
+148,Manuel Akanji,"187cm / 6'2""",91kg / 201lb,CB,Right,78,48,71,75,85,82,29,Switzerland,Premier League,Manchester City
+149,Nathan Aké,"180cm / 5'11""",75kg / 165lb,CB,Left,76,53,72,75,84,77,30,Holland,Premier League,Manchester City
+150,Julián Álvarez,"170cm / 5'7""",71kg / 157lb,ST,Right,85,84,80,85,57,78,25,Argentina,LALIGA EA SPORTS,Atlético de Madrid
+151,Iago Aspas,"176cm / 5'9""",67kg / 148lb,ST,Left,81,86,79,86,35,65,37,Spain,LALIGA EA SPORTS,RC Celta
+152,Sandy Baltimore,"156cm / 5'1""",62kg / 137lb,RM,Left,84,72,85,84,64,69,25,France,Barclays WSL,Chelsea
+153,Ann-Katrin Berger,"180cm / 5'11""",63kg / 139lb,GK,Right,85,84,80,84,45,81,34,Germany,NWSL,NJ/NY Gotham
+154,Hannah Blundell,"163cm / 5'4""",54kg / 119lb,LB,Right,70,54,72,73,85,72,30,England,Barclays WSL,Manchester Utd
+155,Lisa Boattin,"160cm / 5'3""",53kg / 117lb,LB,Left,75,66,81,81,81,85,27,Italy,Calcio A Femminile,Juventus
+156,Yassine Bounou,"195cm / 6'5""",78kg / 172lb,GK,Left,81,82,77,86,38,83,33,Morocco,ROSHN Saudi League,Al Hilal
+157,Kadeisha Buchanan,"170cm / 5'7""",65kg / 143lb,CB,Right,67,44,58,65,86,84,29,Canada,Barclays WSL,Chelsea
+158,Mariona,"166cm / 5'5""",64kg / 141lb,LW,Right,77,84,84,85,57,77,28,Spain,Barclays WSL,Arsenal
+159,Jane Campbell,"175cm / 5'9""",66kg / 146lb,GK,Right,84,83,85,83,40,85,30,United States,NWSL,Houston Dash
+160,Catarina Macario,"165cm / 5'5""",58kg / 128lb,CAM,Right,83,82,80,87,57,72,25,United States,Barclays WSL,Chelsea
+161,Arianna Caruso,"165cm / 5'5""",55kg / 121lb,CM,Right,74,80,82,87,71,72,25,Italy,Calcio A Femminile,Juventus
+162,Tabitha Chawinga,"172cm / 5'8""",68kg / 150lb,ST,Left,94,81,70,84,36,78,28,Malawi,Arkema PL,OL
+163,Federico Chiesa,"175cm / 5'9""",70kg / 154lb,RW,Right,93,83,76,86,52,75,27,Italy,Premier League,Liverpool
+164,Kingsley Coman,"181cm / 5'11""",75kg / 165lb,LM,Right,89,75,79,87,30,62,28,France,Bundesliga,FC Bayern München
+165,Rúben Neves,"180cm / 5'11""",83kg / 183lb,CDM,Right,57,75,86,77,77,77,27,Portugal,ROSHN Saudi League,Al Hilal
+166,Sara Däbritz,"171cm / 5'7""",58kg / 128lb,CM,Left,76,81,84,87,74,72,30,Germany,Arkema PL,OL
+167,Linda Dallmann,"158cm / 5'2""",51kg / 112lb,RM,Right,77,78,81,87,46,59,30,Germany,GPFBL,FC Bayern München
+168,Matthijs de Ligt,"189cm / 6'2""",89kg / 196lb,CB,Right,62,61,63,67,85,83,25,Holland,Premier League,Man Utd
+169,Rodrigo De Paul,"180cm / 5'11""",70kg / 154lb,CM,Right,76,77,83,82,76,82,30,Argentina,LALIGA EA SPORTS,Atlético de Madrid
+170,Raphinha,"176cm / 5'9""",68kg / 150lb,RW,Left,91,79,78,86,53,73,28,Brazil,LALIGA EA SPORTS,FC Barcelona
+171,Luis Díaz,"180cm / 5'11""",73kg / 161lb,LW,Right,90,80,75,87,39,75,28,Colombia,Premier League,Liverpool
+172,Federico Dimarco,"174cm / 5'9""",76kg / 168lb,LB,Left,80,77,84,83,78,81,27,Italy,Serie A Enilive,Lombardia FC
+173,Sara Doorsoun,"170cm / 5'7""",58kg / 128lb,CB,Right,77,60,74,76,85,83,33,Germany,GPFBL,Frankfurt
+174,Artem Dovbyk,"189cm / 6'2""",78kg / 172lb,ST,Left,84,85,69,79,34,81,27,Ukraine,Serie A Enilive,AS Roma
+175,Crystal Dunn,"155cm / 5'1""",55kg / 121lb,CM,Right,87,79,83,85,77,80,32,United States,NWSL,NJ/NY Gotham
+176,Ingrid Syrstad Engen,"177cm / 5'10""",67kg / 148lb,CB,Right,72,61,81,77,86,80,26,Norway,Liga F,FC Barcelona
+177,Jeremie Frimpong,"172cm / 5'8""",65kg / 143lb,RM,Right,93,62,75,86,75,69,24,Holland,Bundesliga,Leverkusen
+178,Aleix García,"173cm / 5'8""",68kg / 150lb,CM,Right,67,77,85,84,76,68,27,Spain,Bundesliga,Leverkusen
+179,Manuela Giugliano,"160cm / 5'3""",51kg / 112lb,CM,Right,81,80,84,86,72,74,27,Italy,Calcio A Femminile,Roma
+180,Jack Grealish,"180cm / 5'11""",81kg / 179lb,LW,Right,76,76,82,88,53,73,29,England,Premier League,Manchester City
+181,Alex Greenwood,"167cm / 5'6""",62kg / 137lb,CB,Left,71,65,80,74,85,82,31,England,Barclays WSL,Manchester City
+182,Serhou Guirassy,"187cm / 6'2""",82kg / 181lb,ST,Right,69,86,71,80,39,79,28,Guinea,Bundesliga,Borussia Dortmund
+183,Viktor Gyökeres,"187cm / 6'2""",90kg / 198lb,ST,Right,90,83,67,80,36,91,26,Sweden,Liga Portugal,Sporting CP
+184,Achraf Hakimi,"181cm / 5'11""",73kg / 161lb,RB,Right,91,76,80,80,75,78,26,Morocco,Ligue 1 McDonald's,Paris SG
+185,Pernille Harder,"169cm / 5'7""",60kg / 132lb,CAM,Right,81,78,81,88,27,77,32,Denmark,GPFBL,FC Bayern München
+186,Yui Hasegawa,"156cm / 5'1""",48kg / 106lb,CDM,Right,78,71,84,86,79,63,28,Japan,Barclays WSL,Manchester City
+187,Lukáš Hrádecký,"192cm / 6'4""",85kg / 187lb,GK,Right,85,80,69,87,40,82,35,Finland,Bundesliga,Leverkusen
+188,Amanda Ilestedt,"178cm / 5'10""",65kg / 143lb,CB,Right,68,46,65,63,87,78,32,Sweden,Barclays WSL,Arsenal
+189,Dominique Janssen,"174cm / 5'9""",63kg / 139lb,CB,Right,78,59,75,75,83,83,30,Holland,Barclays WSL,Manchester Utd
+190,Fran Kirby,"157cm / 5'2""",52kg / 115lb,CAM,Right,86,83,78,88,42,59,31,England,Barclays WSL,Brighton
+191,Kalidou Koulibaly,"186cm / 6'1""",93kg / 205lb,CB,Right,76,48,64,67,85,84,33,Senegal,ROSHN Saudi League,Al Hilal
+192,Amel Majri,"164cm / 5'5""",54kg / 119lb,LW,Left,78,76,85,88,79,74,32,France,Arkema PL,OL
+193,Sadio Mané,"174cm / 5'9""",69kg / 152lb,LM,Right,83,81,78,86,44,75,32,Senegal,ROSHN Saudi League,Al Nassr
+194,Lisandro Martínez,"178cm / 5'10""",77kg / 170lb,CB,Left,71,59,78,79,85,81,27,Argentina,Premier League,Man Utd
+195,Griedge Mbock,"172cm / 5'8""",68kg / 150lb,CB,Right,63,55,66,66,85,83,30,France,Arkema PL,Paris SG
+196,Diogo Costa,"192cm / 6'4""",84kg / 185lb,GK,Right,83,78,82,86,35,83,25,Portugal,Liga Portugal,FC Porto
+197,Ferland Mendy,"180cm / 5'11""",73kg / 161lb,LB,Left,89,64,76,76,81,85,29,France,LALIGA EA SPORTS,Real Madrid
+198,Christopher Nkunku,"177cm / 5'10""",68kg / 150lb,CAM,Right,81,81,81,86,60,67,27,France,Premier League,Chelsea
+199,Dani Olmo,"179cm / 5'10""",72kg / 159lb,CAM,Right,73,77,82,87,50,57,26,Spain,LALIGA EA SPORTS,FC Barcelona
+200,Exequiel Palacios,"178cm / 5'10""",69kg / 152lb,CM,Right,69,76,79,82,82,73,26,Argentina,Bundesliga,Leverkusen
+201,Benjamin Pavard,"186cm / 6'1""",81kg / 179lb,CB,Right,75,67,75,75,86,81,28,France,Serie A Enilive,Lombardia FC
+202,Lara Prašnikar,"171cm / 5'7""",64kg / 141lb,ST,Right,77,84,69,83,44,79,26,Slovenia,GPFBL,Frankfurt
+203,Alba Redondo,"169cm / 5'7""",61kg / 134lb,ST,Right,84,85,70,84,26,64,28,Spain,Liga F,Real Madrid CF
+204,Álex Remiro,"192cm / 6'4""",79kg / 174lb,GK,Right,84,79,80,86,42,86,29,Spain,LALIGA EA SPORTS,Real Sociedad
+205,Trinity Rodman,"173cm / 5'8""",60kg / 132lb,RM,Right,94,82,78,83,43,83,22,United States,NWSL,Washington Spirit
+206,Cristian Romero,"185cm / 6'1""",79kg / 174lb,CB,Right,68,46,59,66,85,81,26,Argentina,Premier League,Spurs
+207,Marcel Sabitzer,"178cm / 5'10""",76kg / 168lb,CM,Right,76,84,81,82,75,79,30,Austria,Bundesliga,Borussia Dortmund
+208,Georgia Stanway,"162cm / 5'4""",58kg / 128lb,CDM,Right,80,78,80,86,76,75,26,England,GPFBL,FC Bayern München
+209,Ella Toone,"163cm / 5'4""",57kg / 126lb,CAM,Right,81,79,78,86,51,65,25,England,Barclays WSL,Manchester Utd
+210,Casemiro,"185cm / 6'1""",84kg / 185lb,CDM,Right,38,74,77,69,82,82,33,Brazil,Premier League,Man Utd
+211,Guglielmo Vicario,"194cm / 6'4""",76kg / 168lb,GK,Right,84,80,79,87,52,84,28,Italy,Premier League,Spurs
+212,Marta,"162cm / 5'4""",56kg / 123lb,CAM,Left,72,82,85,88,44,74,39,Brazil,NWSL,Orlando Pride
+213,Glódís Perla Viggósdóttir,"172cm / 5'8""",65kg / 143lb,CB,Right,73,54,68,61,86,81,29,Iceland,GPFBL,FC Bayern München
+214,Dušan Vlahović,"190cm / 6'3""",75kg / 165lb,ST,Left,78,84,69,79,29,83,25,Serbia,Serie A Enilive,Juventus
+215,Kyle Walker,"183cm / 6'0""",83kg / 183lb,RB,Right,89,64,77,78,79,81,34,England,Premier League,Manchester City
+216,Caroline Weir,"173cm / 5'8""",62kg / 137lb,CAM,Left,72,83,84,84,73,69,29,Scotland,Liga F,Real Madrid CF
+217,Benjamin White,"185cm / 6'1""",77kg / 170lb,RB,Right,73,35,77,78,83,80,27,England,Premier League,Arsenal
+218,Manuela Zinsberger,"177cm / 5'10""",67kg / 148lb,GK,Right,84,77,78,85,46,85,29,Austria,Barclays WSL,Arsenal
+219,Marcos Acuña,"172cm / 5'8""",69kg / 152lb,LB,Left,74,74,82,82,80,84,33,Argentina,Libertadores,River Plate
+220,Rasheedat Ajibade,"167cm / 5'6""",53kg / 117lb,LW,Right,91,83,74,84,37,76,25,Nigeria,Liga F,Atlético de Madrid
+221,Robert Andrich,"186cm / 6'1""",85kg / 187lb,CDM,Right,54,77,76,73,83,83,30,Germany,Bundesliga,Leverkusen
+222,Lineth Beerensteyn,"162cm / 5'4""",60kg / 132lb,LW,Right,89,80,72,86,52,75,28,Holland,GPFBL,VfL Wolfsburg
+223,Ismaël Bennacer,"175cm / 5'9""",70kg / 154lb,CDM,Left,77,73,82,85,78,75,27,Algeria,Serie A Enilive,Milano FC
+224,Domenico Berardi,"183cm / 6'0""",72kg / 159lb,RW,Left,79,81,78,85,36,70,30,Italy,Serie BKT,Sassuolo
+225,Mathilde Bourdieu,"165cm / 5'5""",67kg / 148lb,ST,Right,80,84,71,82,36,76,25,France,Arkema PL,Paris FC
+226,Klara Bühl,"172cm / 5'8""",65kg / 143lb,LM,Right,83,85,77,83,34,71,24,Germany,GPFBL,FC Bayern München
+227,Eduardo Camavinga,"182cm / 6'0""",68kg / 150lb,CM,Left,80,67,81,84,78,80,22,France,LALIGA EA SPORTS,Real Madrid
+228,Olga Carmona,"160cm / 5'3""",51kg / 112lb,LB,Left,89,74,77,80,78,73,24,Spain,Liga F,Real Madrid CF
+229,Ellie Carpenter,"164cm / 5'5""",60kg / 132lb,RB,Right,81,51,78,77,81,79,24,Australia,Arkema PL,OL
+230,Yannick Carrasco,"181cm / 5'11""",73kg / 161lb,LW,Right,88,81,80,85,59,67,31,Belgium,ROSHN Saudi League,Al Shabab
+231,Steph Catley,"171cm / 5'7""",60kg / 132lb,LB,Left,85,66,80,78,78,76,31,Australia,Barclays WSL,Arsenal
+232,Andreas Christensen,"187cm / 6'2""",82kg / 181lb,CB,Right,67,32,68,71,85,76,28,Denmark,LALIGA EA SPORTS,FC Barcelona
+233,Cata Coll,"170cm / 5'7""",68kg / 150lb,GK,Right,81,80,75,89,53,82,23,Spain,Liga F,FC Barcelona
+234,Erin Cuthbert,"163cm / 5'4""",60kg / 132lb,CM,Right,79,80,82,82,75,69,26,Scotland,Barclays WSL,Chelsea
+235,Stefan de Vrij,"189cm / 6'2""",78kg / 172lb,CB,Right,62,41,65,69,85,75,33,Holland,Serie A Enilive,Lombardia FC
+236,Ángel Di María,"180cm / 5'11""",69kg / 152lb,RM,Left,76,80,85,88,48,66,37,Argentina,Liga Portugal,SL Benfica
+237,Moussa Diaby,"170cm / 5'7""",67kg / 148lb,RM,Left,95,75,74,86,43,53,25,France,ROSHN Saudi League,Al Ittihad
+238,Melchie Dumornay,"160cm / 5'3""",51kg / 112lb,ST,Right,92,83,78,85,59,69,21,Haiti,Arkema PL,OL
+239,Damaris Egurrola,"176cm / 5'9""",65kg / 143lb,CM,Left,61,68,82,79,80,82,25,Holland,Arkema PL,OL
+240,Youssef En-Nesyri,"188cm / 6'2""",78kg / 172lb,ST,Left,82,82,63,77,36,80,27,Morocco,Trendyol Süper Lig,Fenerbahçe
+241,Magdalena Eriksson,"173cm / 5'8""",66kg / 146lb,CB,Left,63,46,72,66,85,81,31,Sweden,GPFBL,FC Bayern München
+242,Rafa,"172cm / 5'8""",66kg / 146lb,CAM,Right,93,77,77,86,50,54,31,Portugal,Trendyol Süper Lig,Beşiktaş
+243,Jess Fishlock,"157cm / 5'2""",54kg / 119lb,CM,Right,75,81,80,82,74,72,38,Wales,NWSL,Seattle Reign
+244,Laura Freigang,"171cm / 5'7""",62kg / 137lb,CAM,Right,83,84,73,82,26,77,27,Germany,GPFBL,Frankfurt
+245,Cody Gakpo,"189cm / 6'2""",76kg / 168lb,ST,Right,82,83,78,83,48,75,25,Holland,Premier League,Liverpool
+246,Leah Galton,"170cm / 5'7""",61kg / 134lb,LM,Left,73,82,82,82,62,79,30,England,Barclays WSL,Manchester Utd
+247,Vanessa Gilles,"174cm / 5'9""",58kg / 128lb,CB,Right,60,38,53,53,86,82,28,Canada,Arkema PL,OL
+248,José María Giménez,"185cm / 6'1""",79kg / 174lb,CB,Right,71,46,58,61,85,82,30,Uruguay,LALIGA EA SPORTS,Atlético de Madrid
+249,Olivier Giroud,"193cm / 6'4""",91kg / 201lb,ST,Left,45,84,74,75,42,81,38,France,MLS,LAFC
+250,Leon Goretzka,"189cm / 6'2""",82kg / 181lb,CM,Right,70,80,80,81,80,85,30,Germany,Bundesliga,FC Bayern München
+251,Joško Gvardiol,"185cm / 6'1""",80kg / 176lb,LB,Left,79,69,74,78,83,83,23,Croatia,Premier League,Manchester City
+252,Giulia Gwinn,"172cm / 5'8""",58kg / 128lb,RB,Right,82,61,77,84,80,69,25,Germany,GPFBL,FC Bayern München
+253,Kai Havertz,"193cm / 6'4""",82kg / 181lb,ST,Left,77,81,80,82,49,72,25,Germany,Premier League,Arsenal
+254,Lucas Hernández,"184cm / 6'0""",79kg / 174lb,CB,Left,74,54,72,71,84,78,29,France,Ligue 1 McDonald's,Paris SG
+255,Mauro Icardi,"181cm / 5'11""",79kg / 174lb,ST,Right,68,83,71,76,40,75,32,Argentina,Trendyol Süper Lig,Galatasaray
+256,Kim Min Jae,"190cm / 6'3""",81kg / 179lb,CB,Right,76,33,57,63,85,83,28,Korea Republic,Bundesliga,FC Bayern München
+257,Aubrey Kingsbury,"175cm / 5'9""",65kg / 143lb,GK,Right,84,82,70,84,41,83,33,United States,NWSL,Washington Spirit
+258,Ibrahima Konaté,"194cm / 6'4""",95kg / 209lb,CB,Right,75,34,59,68,83,84,25,France,Premier League,Liverpool
+259,Teun Koopmeiners,"183cm / 6'0""",77kg / 170lb,CM,Left,66,78,83,78,75,78,27,Holland,Serie A Enilive,Juventus
+260,Mateo Kovačić,"177cm / 5'10""",80kg / 176lb,CM,Right,69,67,82,87,71,70,30,Croatia,Premier League,Manchester City
+261,Saki Kumagai,"172cm / 5'8""",63kg / 139lb,CM,Right,51,70,77,80,85,78,34,Japan,Calcio A Femminile,Roma
+262,Racheal Kundananji,"175cm / 5'9""",65kg / 143lb,LW,Right,91,82,73,85,42,87,24,Zambia,NWSL,Bay FC
+263,Konrad Laimer,"180cm / 5'11""",72kg / 159lb,CDM,Right,80,69,77,77,82,78,27,Austria,Bundesliga,FC Bayern München
+264,Aymeric Laporte,"189cm / 6'2""",85kg / 187lb,CB,Left,55,50,74,70,85,76,30,Spain,ROSHN Saudi League,Al Nassr
+265,Robin Le Normand,"187cm / 6'2""",81kg / 179lb,CB,Right,62,26,54,60,84,79,28,Spain,LALIGA EA SPORTS,Atlético de Madrid
+266,Elena Linari,"173cm / 5'8""",65kg / 143lb,CB,Right,72,43,63,68,83,80,30,Italy,Calcio A Femminile,Roma
+267,Marcos Llorente,"184cm / 6'0""",74kg / 163lb,RM,Right,89,79,78,80,79,81,30,Spain,LALIGA EA SPORTS,Atlético de Madrid
+268,Manuel Locatelli,"185cm / 6'1""",75kg / 165lb,CDM,Right,64,70,80,78,79,80,27,Italy,Serie A Enilive,Juventus
+269,Donyell Malen,"176cm / 5'9""",68kg / 150lb,RM,Right,89,81,74,85,35,72,26,Holland,Bundesliga,Borussia Dortmund
+270,Lieke Martens van Leer,"170cm / 5'7""",66kg / 146lb,LW,Right,73,83,82,87,44,71,32,Holland,Arkema PL,Paris SG
+271,Gabriel Martinelli,"178cm / 5'10""",75kg / 165lb,LW,Right,89,78,75,85,46,72,23,Brazil,Premier League,Arsenal
+272,Henrikh Mkhitaryan,"177cm / 5'10""",75kg / 165lb,CM,Right,78,79,82,84,72,77,36,Armenia,Serie A Enilive,Lombardia FC
+273,Morata,"190cm / 6'3""",84kg / 185lb,ST,Right,82,81,73,80,31,79,32,Spain,Serie A Enilive,Milano FC
+274,Gerard Moreno,"180cm / 5'11""",77kg / 170lb,ST,Left,77,85,77,81,46,72,32,Spain,LALIGA EA SPORTS,Villarreal CF
+275,Alyssa Naeher,"173cm / 5'8""",64kg / 141lb,GK,Right,85,81,83,82,46,87,36,United States,NWSL,Chicago Red Stars
+276,Yuki Nagasato,"168cm / 5'6""",56kg / 123lb,CM,Right,79,80,81,85,66,73,37,Japan,NWSL,Houston Dash
+277,Katharina Naschenweng,"168cm / 5'6""",57kg / 126lb,LB,Left,79,56,77,79,82,74,27,Austria,GPFBL,FC Bayern München
+278,Ashleigh Neville,"171cm / 5'7""",64kg / 141lb,LB,Right,76,70,77,77,85,83,31,England,Barclays WSL,Spurs
+279,André Onana,"190cm / 6'3""",93kg / 205lb,GK,Right,83,75,87,86,61,79,28,Cameroon,Premier League,Man Utd
+280,Willi Orban,"186cm / 6'1""",87kg / 192lb,CB,Right,58,36,56,56,85,78,32,Hungary,Bundesliga,RB Leipzig
+281,Gavi,"173cm / 5'8""",70kg / 154lb,CM,Right,76,66,78,85,68,70,20,Spain,LALIGA EA SPORTS,FC Barcelona
+282,Parejo,"182cm / 6'0""",74kg / 163lb,CM,Right,52,80,88,78,74,69,35,Spain,LALIGA EA SPORTS,Villarreal CF
+283,Lorenzo Pellegrini,"186cm / 6'1""",77kg / 170lb,CAM,Right,79,78,83,83,74,78,28,Italy,Serie A Enilive,AS Roma
+284,Pedro Gonçalves,"173cm / 5'8""",77kg / 170lb,LW,Right,78,82,84,84,63,68,26,Portugal,Liga Portugal,Sporting CP
+285,Constance Picaud,"180cm / 5'11""",62kg / 137lb,GK,Right,82,79,76,86,47,82,26,France,Arkema PL,FC Fleury 91
+286,Jordan Pickford,"185cm / 6'1""",77kg / 170lb,GK,Left,83,78,88,87,53,80,31,England,Premier League,Everton
+287,Claudia Pina,"160cm / 5'3""",69kg / 152lb,LW,Right,73,83,82,84,45,69,23,Spain,Liga F,FC Barcelona
+288,Nick Pope,"199cm / 6'6""",76kg / 168lb,GK,Right,82,82,75,85,49,82,32,England,Premier League,Newcastle Utd
+289,Pedro Porro,"173cm / 5'8""",69kg / 152lb,RB,Right,82,73,80,81,78,77,25,Spain,Premier League,Spurs
+290,Ivan Provedel,"192cm / 6'4""",84kg / 185lb,GK,Right,84,79,80,85,42,84,30,Italy,Serie A Enilive,Latium
+291,Christian Pulisic,"177cm / 5'10""",69kg / 152lb,RW,Right,88,82,78,86,37,63,26,United States,Serie A Enilive,Milano FC
+292,Mayra Ramírez,"178cm / 5'10""",74kg / 163lb,ST,Right,90,83,75,85,33,86,25,Colombia,Barclays WSL,Chelsea
+293,David Raya,"183cm / 6'0""",75kg / 165lb,GK,Right,82,81,86,82,57,81,29,Spain,Premier League,Arsenal
+294,Koke,"176cm / 5'9""",75kg / 165lb,CDM,Right,69,72,84,79,77,78,33,Spain,LALIGA EA SPORTS,Atlético de Madrid
+295,Guido Rodríguez,"185cm / 6'1""",80kg / 176lb,CDM,Right,51,58,72,70,85,80,29,Argentina,Premier League,West Ham
+296,Alessio Romagnoli,"185cm / 6'1""",75kg / 165lb,CB,Left,64,40,56,69,85,79,30,Italy,Serie A Enilive,Latium
+297,Ashley Sanchez,"163cm / 5'4""",56kg / 123lb,CAM,Right,80,80,79,84,38,70,25,United States,NWSL,NC Courage
+298,Ouleymata Sarr,"175cm / 5'9""",61kg / 134lb,ST,Right,90,79,77,83,45,78,29,France,NWSL,Washington Spirit
+299,Almuth Schult,"180cm / 5'11""",71kg / 157lb,GK,Right,82,81,82,84,38,85,34,Germany,NWSL,KC Current
+300,Xavi Simons,"179cm / 5'10""",61kg / 134lb,CAM,Right,81,77,80,86,61,71,21,Holland,Bundesliga,RB Leipzig
+301,Christine Sinclair,"175cm / 5'9""",67kg / 148lb,ST,Right,65,86,83,81,44,82,41,Canada,NWSL,Portland Thorns
+302,Douglas Luiz,"175cm / 5'9""",66kg / 146lb,CM,Right,66,78,85,80,75,76,26,Brazil,Serie A Enilive,Juventus
+303,Sherida Spitse,"167cm / 5'6""",61kg / 134lb,CDM,Right,66,76,85,73,79,80,34,Holland,Nederland Vrouwen Liga,Ajax
+304,Hina Sugita,"161cm / 5'3""",53kg / 117lb,CM,Left,73,79,82,83,73,67,28,Japan,NWSL,Portland Thorns
+305,Dušan Tadić,"181cm / 5'11""",76kg / 168lb,LM,Left,64,79,85,81,43,78,36,Serbia,Trendyol Süper Lig,Fenerbahçe
+306,Edmond Tapsoba,"192cm / 6'4""",84kg / 185lb,CB,Right,75,54,68,70,85,79,26,Burkina Faso,Bundesliga,Leverkusen
+307,Nuno Mendes,"180cm / 5'11""",70kg / 154lb,LB,Left,89,58,76,82,78,76,22,Portugal,Ligue 1 McDonald's,Paris SG
+308,Gaëtane Thiney,"170cm / 5'7""",62kg / 137lb,CAM,Right,56,81,84,83,50,72,39,France,Arkema PL,Paris FC
+309,Marcus Thuram,"192cm / 6'4""",80kg / 176lb,ST,Right,87,81,77,82,50,84,27,France,Serie A Enilive,Lombardia FC
+310,Fikayo Tomori,"185cm / 6'1""",79kg / 174lb,CB,Right,84,40,60,68,85,80,27,England,Serie A Enilive,Milano FC
+311,Lucas Torreira,"166cm / 5'5""",60kg / 132lb,CDM,Right,76,69,78,81,81,81,29,Uruguay,Trendyol Süper Lig,Galatasaray
+312,Kieran Trippier,"173cm / 5'8""",71kg / 157lb,RB,Right,67,65,85,78,81,72,34,England,Premier League,Newcastle Utd
+313,Leandro Trossard,"171cm / 5'7""",67kg / 148lb,LW,Right,82,81,80,85,30,61,30,Belgium,Premier League,Arsenal
+314,Viktor Tsygankov,"178cm / 5'10""",72kg / 159lb,RM,Left,85,80,81,82,46,62,27,Ukraine,LALIGA EA SPORTS,Girona FC
+315,Lia Wälti,"167cm / 5'6""",56kg / 123lb,CDM,Right,80,62,77,83,81,76,31,Switzerland,Barclays WSL,Arsenal
+316,Lynn Williams,"172cm / 5'8""",62kg / 137lb,LW,Right,92,82,76,82,53,75,31,United States,NWSL,NJ/NY Gotham
+317,Mattia Zaccagni,"177cm / 5'10""",63kg / 139lb,LW,Right,87,77,75,88,57,66,29,Italy,Serie A Enilive,Latium
+318,Duván Zapata,"188cm / 6'2""",92kg / 203lb,ST,Right,73,82,64,78,35,88,33,Colombia,Serie A Enilive,Torino
+319,Isco,"176cm / 5'9""",79kg / 174lb,CAM,Right,66,74,82,83,59,59,32,Spain,LALIGA EA SPORTS,Real Betis
+320,Joelinton,"186cm / 6'1""",81kg / 179lb,CM,Right,76,72,76,82,81,89,28,Brazil,Premier League,Newcastle Utd
+321,Pepê,"173cm / 5'8""",72kg / 159lb,CAM,Right,87,74,75,85,62,62,28,Brazil,Liga Portugal,FC Porto
+322,Pierre-Emerick Aubameyang,"187cm / 6'2""",80kg / 176lb,ST,Right,84,83,72,78,35,63,35,Gabon,ROSHN Saudi League,Al Qadisiyah
+323,Ramona Bachmann,"162cm / 5'4""",59kg / 130lb,LM,Right,72,81,79,83,53,77,34,Switzerland,NWSL,Houston Dash
+324,Leon Bailey,"178cm / 5'10""",77kg / 170lb,RM,Left,90,78,77,86,38,62,27,Jamaica,Premier League,Aston Villa
+325,Oliver Baumann,"187cm / 6'2""",82kg / 181lb,GK,Right,81,80,78,83,39,79,34,Germany,Bundesliga,TSG Hoffenheim
+326,Luana,"163cm / 5'4""",60kg / 132lb,CM,Right,54,73,81,82,68,66,31,Brazil,NWSL,Orlando Pride
+327,Bella Bixby,"183cm / 6'0""",70kg / 154lb,GK,Right,83,79,74,87,42,80,29,United States,NWSL,Portland Thorns
+328,Stina Blackstenius,"174cm / 5'9""",65kg / 143lb,ST,Right,83,83,62,81,39,75,29,Sweden,Barclays WSL,Arsenal
+329,Barbara Bonansea,"173cm / 5'8""",60kg / 132lb,RW,Right,79,80,76,84,38,74,33,Italy,Calcio A Femminile,Juventus
+330,Victor Boniface,"190cm / 6'3""",91kg / 201lb,ST,Right,73,83,66,80,38,82,24,Nigeria,Bundesliga,Leverkusen
+331,Sven Botman,"193cm / 6'4""",81kg / 179lb,CB,Left,60,37,63,65,83,83,25,Holland,Premier League,Newcastle Utd
+332,Jarrod Bowen,"175cm / 5'9""",70kg / 154lb,RM,Left,77,81,76,81,46,70,28,England,Premier League,West Ham
+333,Marcelo Brozović,"181cm / 5'11""",72kg / 159lb,CDM,Right,66,74,79,80,80,80,32,Croatia,ROSHN Saudi League,Al Nassr
+334,Annaïg Butel,"167cm / 5'6""",53kg / 117lb,CB,Right,64,42,65,65,84,78,33,France,NWSL,Washington Spirit
+335,Moisés Caicedo,"178cm / 5'10""",73kg / 161lb,CDM,Right,75,63,75,78,79,78,23,Ecuador,Premier League,Chelsea
+336,Emre Can,"186cm / 6'1""",86kg / 190lb,CDM,Right,77,78,74,76,82,86,31,Germany,Bundesliga,Borussia Dortmund
+337,Marco Carnesecchi,"191cm / 6'3""",83kg / 183lb,GK,Right,84,79,71,85,30,83,24,Italy,Serie A Enilive,Bergamo Calcio
+338,Rafaelle,"175cm / 5'9""",64kg / 141lb,CB,Left,61,39,68,65,83,80,33,Brazil,NWSL,Orlando Pride
+339,Koen Casteels,"197cm / 6'6""",86kg / 190lb,GK,Left,82,79,74,85,45,83,32,Belgium,ROSHN Saudi League,Al Qadisiyah
+340,Lucas Paquetá,"180cm / 5'11""",72kg / 159lb,LM,Left,72,77,79,85,69,79,27,Brazil,Premier League,West Ham
+341,Daphne Corboz,"157cm / 5'2""",54kg / 119lb,CDM,Right,65,76,83,82,75,77,31,France,Arkema PL,Paris FC
+342,Ángel Correa,"171cm / 5'7""",70kg / 154lb,ST,Right,85,84,77,86,50,75,30,Argentina,LALIGA EA SPORTS,Atlético de Madrid
+343,Marc Cucurella,"173cm / 5'8""",67kg / 148lb,LB,Left,75,60,80,80,78,76,26,Spain,Premier League,Chelsea
+344,Antônia Silva,"170cm / 5'7""",64kg / 141lb,RB,Right,81,48,73,80,80,81,30,Brazil,Liga F,Real Madrid CF
+345,Danilo,"184cm / 6'0""",78kg / 172lb,CB,Right,76,67,74,74,84,77,33,Brazil,Serie A Enilive,Juventus
+346,Otávio,"171cm / 5'7""",67kg / 148lb,CAM,Right,78,71,81,85,67,74,30,Portugal,ROSHN Saudi League,Al Nassr
+347,Kenza Dali,"165cm / 5'5""",61kg / 134lb,CM,Right,72,79,82,85,68,71,33,France,Barclays WSL,Aston Villa
+348,Diogo Dalot,"183cm / 6'0""",76kg / 168lb,RB,Right,85,63,77,80,79,79,25,Portugal,Premier League,Man Utd
+349,Sergi Darder,"180cm / 5'11""",71kg / 157lb,CM,Right,79,78,82,83,74,77,31,Spain,LALIGA EA SPORTS,RCD Mallorca
+350,Alphonso Davies,"185cm / 6'1""",77kg / 170lb,LB,Left,95,66,77,84,72,76,24,Canada,Bundesliga,FC Bayern München
+351,Athenea,"160cm / 5'3""",52kg / 115lb,RW,Right,85,78,75,83,24,72,24,Spain,Liga F,Real Madrid CF
+352,Giovanni Di Lorenzo,"183cm / 6'0""",82kg / 181lb,RB,Right,83,67,73,76,79,80,31,Italy,Serie A Enilive,SSC Napoli
+353,Brahim,"170cm / 5'7""",68kg / 150lb,CAM,Right,85,74,78,85,31,56,25,Morocco,LALIGA EA SPORTS,Real Madrid
+354,Vanessa DiBernardo,"163cm / 5'4""",53kg / 117lb,CM,Right,75,76,80,84,65,73,32,United States,NWSL,KC Current
+355,Denzel Dumfries,"188cm / 6'2""",80kg / 176lb,RB,Right,83,66,73,74,78,88,28,Holland,Serie A Enilive,Lombardia FC
+356,Edin Džeko,"193cm / 6'4""",80kg / 176lb,ST,Right,57,82,73,76,45,76,38,Bosnia and Herzegovina,Trendyol Süper Lig,Fenerbahçe
+357,Bethany England,"166cm / 5'5""",59kg / 130lb,ST,Right,66,85,67,77,40,72,30,England,Barclays WSL,Spurs
+358,Enzo Fernández,"178cm / 5'10""",78kg / 172lb,CM,Right,69,73,82,80,73,77,24,Argentina,Premier League,Chelsea
+359,Nacho Fernández,"180cm / 5'11""",76kg / 168lb,CB,Right,73,37,68,71,82,79,35,Spain,ROSHN Saudi League,Al Qadisiyah
+360,Paula Fernández,"167cm / 5'6""",62kg / 137lb,CM,Right,77,74,80,79,80,78,25,Spain,Liga F,Levante UD
+361,Gabriel Jesus,"175cm / 5'9""",73kg / 161lb,ST,Right,83,80,75,88,39,77,27,Brazil,Premier League,Arsenal
+362,Jorginho,"178cm / 5'10""",68kg / 150lb,CDM,Right,46,67,83,80,73,71,33,Italy,Premier League,Arsenal
+363,Adrianna Franch,"175cm / 5'9""",70kg / 154lb,GK,Right,81,80,76,82,39,84,34,United States,NWSL,KC Current
+364,Pau Torres,"191cm / 6'3""",80kg / 176lb,CB,Left,70,41,77,70,83,79,28,Spain,Premier League,Aston Villa
+365,Niclas Füllkrug,"188cm / 6'2""",83kg / 183lb,ST,Right,63,84,71,75,43,81,32,Germany,Premier League,West Ham
+366,Gabriela García,"185cm / 6'1""",68kg / 150lb,CDM,Right,71,82,79,80,78,86,27,Venezuela,Liga F,Atlético de Madrid
+367,Gayà,"172cm / 5'8""",66kg / 146lb,LB,Left,81,61,77,79,78,74,29,Spain,LALIGA EA SPORTS,Valencia CF
+368,Paulo Gazzaniga,"196cm / 6'5""",90kg / 198lb,GK,Right,82,80,83,81,57,82,33,Argentina,LALIGA EA SPORTS,Girona FC
+369,Valentina Giacinti,"170cm / 5'7""",59kg / 130lb,ST,Right,73,81,68,79,29,72,31,Italy,Calcio A Femminile,Roma
+370,Matthias Ginter,"189cm / 6'2""",87kg / 192lb,CB,Right,54,59,71,66,85,75,31,Germany,Bundesliga,SC Freiburg
+371,Serge Gnabry,"176cm / 5'9""",77kg / 170lb,RM,Right,80,83,78,84,43,66,29,Germany,Bundesliga,FC Bayern München
+372,Anthony Gordon,"183cm / 6'0""",72kg / 159lb,LW,Right,91,78,76,81,49,71,24,England,Premier League,Newcastle Utd
+373,Théa Gréboval,"168cm / 5'6""",61kg / 134lb,CB,Left,64,60,72,65,83,83,27,France,Arkema PL,Paris FC
+374,Giada Greggi,"156cm / 5'1""",50kg / 110lb,CM,Right,84,71,72,83,75,72,25,Italy,Calcio A Femminile,Roma
+375,Raphaël Guerreiro,"170cm / 5'7""",71kg / 157lb,LB,Left,63,78,85,88,76,56,31,Portugal,Bundesliga,FC Bayern München
+376,Péter Gulácsi,"191cm / 6'3""",86kg / 190lb,GK,Right,82,82,75,81,43,83,34,Hungary,Bundesliga,RB Leipzig
+377,Emilie Haavi,"164cm / 5'5""",59kg / 130lb,LW,Right,88,77,80,83,64,69,32,Norway,Calcio A Femminile,Roma
+378,Chantal Hagel,"172cm / 5'8""",67kg / 148lb,CM,Left,57,79,78,80,73,81,26,Germany,GPFBL,VfL Wolfsburg
+379,Ashley Hatch,"173cm / 5'8""",65kg / 143lb,ST,Right,70,84,73,81,47,69,29,United States,NWSL,Washington Spirit
+380,Marina Hegering,"170cm / 5'7""",59kg / 130lb,CB,Right,62,51,64,71,83,78,34,Germany,GPFBL,VfL Wolfsburg
+381,Fabinho,"188cm / 6'2""",78kg / 172lb,CDM,Right,58,69,78,77,80,82,31,Brazil,ROSHN Saudi League,Al Ittihad
+382,Yangel Herrera,"184cm / 6'0""",77kg / 170lb,CDM,Right,64,77,76,78,80,81,27,Venezuela,LALIGA EA SPORTS,Girona FC
+383,Jonas Hofmann,"176cm / 5'9""",72kg / 159lb,CAM,Right,73,79,81,81,64,72,32,Germany,Bundesliga,Leverkusen
+384,Sofia Huerta,"170cm / 5'7""",60kg / 132lb,RB,Right,80,57,75,78,77,77,32,United States,NWSL,Seattle Reign
+385,Ciro Immobile,"185cm / 6'1""",85kg / 187lb,ST,Right,82,83,67,78,39,73,35,Italy,Trendyol Süper Lig,Beşiktaş
+386,Reece James,"179cm / 5'10""",91kg / 201lb,RB,Right,78,72,83,82,82,82,25,England,Premier League,Chelsea
+387,Ji So Yun,"161cm / 5'3""",52kg / 115lb,CAM,Right,73,77,81,83,63,60,34,Korea Republic,NWSL,Seattle Reign
+388,Sveindís Jane Jónsdóttir,"178cm / 5'10""",63kg / 139lb,RW,Right,92,73,76,81,46,71,23,Iceland,GPFBL,VfL Wolfsburg
+389,Boubacar Kamara,"184cm / 6'0""",68kg / 150lb,CDM,Right,66,54,74,75,83,80,25,France,Premier League,Aston Villa
+390,Franck Yannick Kessié,"183cm / 6'0""",74kg / 163lb,CDM,Right,79,77,74,79,80,88,28,Côte d'Ivoire,ROSHN Saudi League,Al Ahli
+391,Meghan Klingenberg,"158cm / 5'2""",53kg / 117lb,LB,Right,77,54,74,78,82,79,36,United States,NWSL,Portland Thorns
+392,Randal Kolo Muani,"187cm / 6'2""",73kg / 161lb,ST,Right,90,80,71,81,38,67,26,France,Ligue 1 McDonald's,Paris SG
+393,Filip Kostić,"184cm / 6'0""",84kg / 185lb,LM,Left,85,76,81,81,70,80,32,Serbia,Trendyol Süper Lig,Fenerbahçe
+394,Mohammed Kudus,"177cm / 5'10""",70kg / 154lb,RM,Left,90,77,73,86,60,75,24,Ghana,Premier League,West Ham
+395,Dejan Kulusevski,"186cm / 6'1""",80kg / 176lb,RM,Left,75,77,80,83,57,80,24,Sweden,Premier League,Spurs
+396,Alexandre Lacazette,"175cm / 5'9""",73kg / 161lb,ST,Right,70,84,76,83,44,75,33,France,Ligue 1 McDonald's,OL
+397,Jeremías Conan Ledesma,"186cm / 6'1""",83kg / 183lb,GK,Right,82,79,75,83,46,81,32,Argentina,Libertadores,River Plate
+398,Bernd Leno,"189cm / 6'2""",83kg / 183lb,GK,Right,83,79,76,84,53,82,33,Germany,Premier League,Fulham
+399,Stanislav Lobotka,"170cm / 5'7""",68kg / 150lb,CM,Right,72,69,80,81,75,75,30,Slovakia,Serie A Enilive,SSC Napoli
+400,Sydney Lohmann,"174cm / 5'9""",64kg / 141lb,RM,Right,74,79,79,82,70,82,24,Germany,GPFBL,FC Bayern München
+401,Ademola Lookman,"174cm / 5'9""",71kg / 157lb,ST,Right,84,81,71,86,31,66,27,Nigeria,Serie A Enilive,Bergamo Calcio
+402,Romelu Lukaku,"191cm / 6'3""",94kg / 207lb,ST,Left,79,82,73,74,38,82,31,Belgium,Serie A Enilive,SSC Napoli
+403,Frida Maanum,"173cm / 5'8""",58kg / 128lb,CM,Right,66,81,81,80,72,65,25,Norway,Barclays WSL,Arsenal
+404,Hailie Mace,"168cm / 5'6""",62kg / 137lb,RB,Right,76,60,75,74,82,74,27,United States,NWSL,KC Current
+405,Melvine Malard,"171cm / 5'7""",62kg / 137lb,LW,Right,81,80,78,84,41,66,24,France,Barclays WSL,Manchester Utd
+406,Gianluca Mancini,"190cm / 6'3""",77kg / 170lb,CB,Right,71,45,56,64,83,85,28,Italy,Serie A Enilive,AS Roma
+407,John McGinn,"178cm / 5'10""",68kg / 150lb,CM,Left,68,77,80,82,78,85,30,Scotland,Premier League,Aston Villa
+408,Janina Minge,"170cm / 5'7""",61kg / 134lb,CDM,Right,70,80,79,81,77,80,25,Germany,GPFBL,VfL Wolfsburg
+409,Aleksandar Mitrović,"189cm / 6'2""",90kg / 198lb,ST,Right,64,82,62,73,28,88,30,Serbia,ROSHN Saudi League,Al Hilal
+410,Nahuel Molina,"175cm / 5'9""",70kg / 154lb,RB,Right,85,67,75,78,78,71,26,Argentina,LALIGA EA SPORTS,Atlético de Madrid
+411,Savinho,"176cm / 5'9""",71kg / 157lb,LW,Left,88,72,77,84,30,53,20,Brazil,Premier League,Manchester City
+412,Thomas Müller,"185cm / 6'1""",76kg / 168lb,CAM,Right,57,82,83,79,55,68,35,Germany,Bundesliga,FC Bayern München
+413,Casey Murphy,"185cm / 6'1""",70kg / 154lb,GK,Right,84,80,74,82,40,86,28,United States,NWSL,NC Courage
+414,Darwin Núñez,"187cm / 6'2""",81kg / 179lb,ST,Right,90,80,72,78,46,86,25,Uruguay,Premier League,Liverpool
+415,Michael Olise,"184cm / 6'0""",73kg / 161lb,RM,Left,80,77,82,84,53,56,23,France,Bundesliga,FC Bayern München
+416,Leila Ouahabi,"172cm / 5'8""",61kg / 134lb,LB,Left,73,52,71,72,81,74,31,Spain,Barclays WSL,Manchester City
+417,Oyarzabal,"181cm / 5'11""",79kg / 174lb,ST,Left,77,83,81,82,42,63,27,Spain,LALIGA EA SPORTS,Real Sociedad
+418,Nikita Parris,"162cm / 5'4""",54kg / 119lb,RM,Right,88,75,78,82,44,65,31,England,Barclays WSL,Manchester Utd
+419,Thomas Partey,"185cm / 6'1""",77kg / 170lb,CDM,Right,62,71,80,77,79,82,31,Ghana,Premier League,Arsenal
+420,Tanja Pawollek,"170cm / 5'7""",63kg / 139lb,CM,Left,51,76,77,78,78,81,26,Poland,GPFBL,Frankfurt
+421,Ève Périsset,"160cm / 5'3""",55kg / 121lb,RB,Right,76,52,79,76,79,72,30,France,Barclays WSL,Chelsea
+422,Pauline Peyraud-Magnin,"175cm / 5'9""",63kg / 139lb,GK,Left,80,80,82,83,47,82,32,France,Calcio A Femminile,Juventus
+423,Felicitas Rauch,"167cm / 5'6""",61kg / 134lb,LB,Left,80,57,72,76,80,76,28,Germany,NWSL,NC Courage
+424,Tijjani Reijnders,"185cm / 6'1""",73kg / 161lb,CM,Right,80,76,80,84,73,74,26,Holland,Serie A Enilive,Milano FC
+425,Misa,"173cm / 5'8""",66kg / 146lb,GK,Left,84,77,77,80,61,84,25,Spain,Liga F,Real Madrid CF
+426,Fabián Ruiz,"189cm / 6'2""",70kg / 154lb,CM,Left,54,76,80,80,75,72,28,Spain,Ligue 1 McDonald's,Paris SG
+427,Cecilia Salvai,"175cm / 5'9""",61kg / 134lb,CB,Left,73,49,70,67,82,83,31,Italy,Calcio A Femminile,Juventus
+428,Brice Samba,"187cm / 6'2""",90kg / 198lb,GK,Left,79,83,80,84,53,81,30,France,Ligue 1 McDonald's,RC Lens
+429,Sancet,"188cm / 6'2""",77kg / 170lb,CAM,Right,73,77,80,84,70,82,24,Spain,LALIGA EA SPORTS,Athletic Club
+430,Jadon Sancho,"180cm / 5'11""",76kg / 168lb,LM,Right,79,69,78,89,32,50,24,England,Premier League,Chelsea
+431,Fabian Schär,"188cm / 6'2""",84kg / 185lb,CB,Right,51,68,77,74,84,79,33,Switzerland,Premier League,Newcastle Utd
+432,Patrik Schick,"191cm / 6'3""",87kg / 192lb,ST,Left,74,81,71,81,37,76,29,Czech Republic,Bundesliga,Leverkusen
+433,Sophie Schmidt,"172cm / 5'8""",66kg / 146lb,CM,Right,49,75,77,78,80,73,36,Canada,NWSL,Houston Dash
+434,Olivia Schough,"172cm / 5'8""",60kg / 132lb,LM,Right,79,80,78,81,41,73,33,Sweden,Sverige Liga,FC Rosengård
+435,Desiree Scott,"155cm / 5'1""",62kg / 137lb,CDM,Right,61,54,70,75,82,79,37,Canada,NWSL,KC Current
+436,Tabea Sellner,"170cm / 5'7""",62kg / 137lb,RM,Right,80,80,80,81,28,69,28,Germany,GPFBL,VfL Wolfsburg
+437,Luke Shaw,"181cm / 5'11""",75kg / 165lb,LB,Left,75,57,82,78,81,78,29,England,Premier League,Man Utd
+438,Malcom,"172cm / 5'8""",74kg / 163lb,CAM,Left,84,79,79,84,43,72,28,Brazil,ROSHN Saudi League,Al Hilal
+439,Chris Smalling,"194cm / 6'4""",81kg / 179lb,CB,Right,54,47,58,61,85,79,35,England,ROSHN Saudi League,Al Fayha
+440,Emily Sonnett,"170cm / 5'7""",62kg / 137lb,CB,Right,80,57,76,73,83,84,31,United States,NWSL,NJ/NY Gotham
+441,Alexander Sørloth,"195cm / 6'5""",94kg / 207lb,ST,Left,79,82,70,76,36,85,29,Norway,LALIGA EA SPORTS,Atlético de Madrid
+442,Ángela Sosa,"166cm / 5'5""",56kg / 123lb,CAM,Right,77,83,84,84,64,74,32,Spain,Liga F,Levante UD
+443,Anderson Talisca,"191cm / 6'3""",75kg / 165lb,RM,Left,79,84,78,83,53,75,31,Brazil,ROSHN Saudi League,Al Nassr
+444,Luis Suárez,"182cm / 6'0""",86kg / 190lb,ST,Right,64,85,78,77,41,75,38,Uruguay,MLS,Inter Miami CF
+445,Niklas Süle,"195cm / 6'5""",99kg / 218lb,CB,Right,70,51,67,64,83,79,29,Germany,Bundesliga,Borussia Dortmund
+446,Kevin Trapp,"189cm / 6'2""",84kg / 185lb,GK,Right,82,80,76,84,46,79,34,Germany,Bundesliga,Frankfurt
+447,Destiny Udogie,"186cm / 6'1""",73kg / 161lb,LB,Left,88,65,74,80,78,80,22,Italy,Premier League,Spurs
+448,Dayot Upamecano,"186cm / 6'1""",90kg / 198lb,CB,Right,81,45,63,73,81,85,26,France,Bundesliga,FC Bayern München
+449,Daniëlle van de Donk,"160cm / 5'3""",54kg / 119lb,CM,Right,72,76,80,86,66,73,33,Holland,Arkema PL,OL
+450,Micky van de Ven,"193cm / 6'4""",86kg / 190lb,CB,Left,88,47,64,71,83,81,23,Holland,Premier League,Spurs
+451,Emily van Egmond,"178cm / 5'10""",65kg / 143lb,CDM,Right,59,61,78,73,82,84,31,Australia,NWSL,San Diego Wave
+452,Manuela Vanegas,"167cm / 5'6""",68kg / 150lb,CB,Left,80,63,73,71,82,83,24,Colombia,Liga F,Real Sociedad
+453,Raphaël Varane,"191cm / 6'3""",81kg / 179lb,CB,Right,73,49,64,69,83,77,31,France,Serie A Enilive,Como
+454,Iñaki Williams,"186cm / 6'1""",80kg / 176lb,RM,Right,94,81,72,80,45,84,30,Ghana,LALIGA EA SPORTS,Athletic Club
+455,Luciano Acosta,"161cm / 5'3""",59kg / 130lb,CAM,Right,79,73,76,85,46,56,30,Argentina,MLS,FC Cincinnati
+456,Edson Álvarez,"187cm / 6'2""",73kg / 161lb,CDM,Right,66,58,69,72,83,87,27,Mexico,Premier League,West Ham
+457,Yeray,"182cm / 6'0""",79kg / 174lb,CB,Right,64,49,70,65,83,76,30,Spain,LALIGA EA SPORTS,Athletic Club
+458,Waldemar Anton,"189cm / 6'2""",86kg / 190lb,CB,Right,69,46,65,67,81,83,28,Germany,Bundesliga,Borussia Dortmund
+459,Nicole Anyomi,"170cm / 5'7""",63kg / 139lb,ST,Right,89,76,73,84,57,81,25,Germany,GPFBL,Frankfurt
+460,Alphonse Areola,"195cm / 6'5""",94kg / 207lb,GK,Right,82,77,74,83,55,80,32,France,Premier League,West Ham
+461,Marco Asensio,"182cm / 6'0""",76kg / 168lb,RW,Left,76,79,81,83,43,63,29,Spain,Ligue 1 McDonald's,Paris SG
+462,Viviane Asseyi,"163cm / 5'4""",59kg / 130lb,ST,Right,87,79,77,81,50,71,31,France,Barclays WSL,West Ham
+463,Balde,"175cm / 5'9""",69kg / 152lb,LB,Left,91,48,73,78,75,64,21,Spain,LALIGA EA SPORTS,FC Barcelona
+464,Leire Baños,"167cm / 5'6""",64kg / 141lb,CDM,Right,76,76,79,79,78,82,28,Spain,Liga F,Athletic Club
+465,Lauren Barnes,"165cm / 5'5""",57kg / 126lb,CB,Left,76,53,75,77,82,81,35,United States,NWSL,Seattle Reign
+466,Rodrigo Bentancur,"187cm / 6'2""",73kg / 161lb,CM,Right,67,68,80,82,79,76,27,Uruguay,Premier League,Spurs
+467,Álex Berenguer,"175cm / 5'9""",73kg / 161lb,LM,Right,85,75,75,83,64,68,29,Spain,LALIGA EA SPORTS,Athletic Club
+468,Jule Brand,"177cm / 5'10""",62kg / 137lb,LW,Right,91,73,74,81,56,72,22,Germany,GPFBL,VfL Wolfsburg
+469,Sergio Busquets,"189cm / 6'2""",76kg / 168lb,CDM,Right,37,61,77,78,78,73,36,Spain,MLS,Inter Miami CF
+470,Niamh Charles,"172cm / 5'8""",64kg / 141lb,LB,Right,81,65,80,76,78,70,25,England,Barclays WSL,Chelsea
+471,Danielle Colaprico,"158cm / 5'2""",58kg / 128lb,CDM,Right,79,76,79,81,76,71,31,United States,NWSL,San Diego Wave
+472,Bryan Cristante,"186cm / 6'1""",80kg / 176lb,CM,Right,55,74,78,75,78,84,30,Italy,Serie A Enilive,AS Roma
+473,Ricardo Horta,"173cm / 5'8""",63kg / 139lb,CAM,Right,80,80,80,81,43,70,30,Portugal,Liga Portugal,SC Braga
+474,Geyse,"169cm / 5'7""",60kg / 132lb,ST,Right,92,79,74,85,34,87,26,Brazil,Barclays WSL,Manchester Utd
+475,Rui Silva,"191cm / 6'3""",91kg / 201lb,GK,Right,82,76,77,84,31,81,31,Portugal,LALIGA EA SPORTS,Real Betis
+476,Matteo Darmian,"183cm / 6'0""",70kg / 154lb,RB,Right,72,62,75,76,80,75,35,Italy,Serie A Enilive,Lombardia FC
+477,Jonathan David,"175cm / 5'9""",70kg / 154lb,ST,Right,82,81,71,78,34,75,25,Canada,Ligue 1 McDonald's,LOSC Lille
+478,Elisa De Almeida,"173cm / 5'8""",61kg / 134lb,CB,Right,72,34,65,61,83,73,27,France,Arkema PL,Paris SG
+479,Richarlison,"184cm / 6'0""",71kg / 157lb,ST,Right,77,80,73,80,53,78,27,Brazil,Premier League,Spurs
+480,Luuk de Jong,"189cm / 6'2""",86kg / 190lb,ST,Right,44,80,73,73,57,80,34,Holland,Eredivisie,PSV
+481,Fred,"169cm / 5'7""",62kg / 137lb,CDM,Left,75,71,79,82,75,78,32,Brazil,Trendyol Süper Lig,Fenerbahçe
+482,Océane Deslandes,"169cm / 5'7""",61kg / 134lb,CB,Left,68,55,78,72,82,79,24,France,Arkema PL,Montpellier
+483,Paulina Dudek,"169cm / 5'7""",62kg / 137lb,CB,Left,62,46,62,68,85,72,27,Poland,Arkema PL,Paris SG
+484,Julie Dufour,"163cm / 5'4""",56kg / 123lb,LM,Right,86,76,78,82,51,61,23,France,Arkema PL,Paris FC
+485,Nerea Eizagirre,"165cm / 5'5""",65kg / 143lb,LW,Right,79,83,79,85,63,71,25,Spain,Liga F,Real Sociedad
+486,Abby Erceg,"177cm / 5'10""",68kg / 150lb,CB,Right,47,39,59,64,84,80,35,New Zealand,NWSL,Rac. Louisville
+487,Eberechi Eze,"178cm / 5'10""",67kg / 148lb,CAM,Right,78,81,78,84,49,69,26,England,Premier League,Crystal Palace
+488,Youssouf Fofana,"185cm / 6'1""",74kg / 163lb,CDM,Right,69,68,74,77,78,80,26,France,Serie A Enilive,Milano FC
+489,Emily Fox,"165cm / 5'5""",57kg / 126lb,LB,Right,69,47,69,78,79,73,26,United States,Barclays WSL,Arsenal
+490,Davide Frattesi,"178cm / 5'10""",74kg / 163lb,CM,Right,80,74,78,81,71,71,25,Italy,Serie A Enilive,Lombardia FC
+491,Remo Freuler,"181cm / 5'11""",80kg / 176lb,CDM,Right,60,72,76,77,77,74,32,Switzerland,Serie A Enilive,Bologna
+492,Conor Gallagher,"182cm / 6'0""",74kg / 163lb,CM,Right,73,75,78,78,77,81,25,England,LALIGA EA SPORTS,Atlético de Madrid
+493,Naomi Girma,"164cm / 5'5""",58kg / 128lb,CB,Right,65,51,66,72,82,74,24,United States,NWSL,San Diego Wave
+494,Alexandr Golovin,"178cm / 5'10""",69kg / 152lb,LM,Right,77,77,80,83,61,68,28,Russia,Ligue 1 McDonald's,AS Monaco
+495,Esther,"163cm / 5'4""",55kg / 121lb,ST,Right,77,82,69,79,31,72,32,Spain,NWSL,NJ/NY Gotham
+496,Pascal Groß,"181cm / 5'11""",78kg / 172lb,CDM,Right,50,77,85,80,73,74,33,Germany,Bundesliga,Borussia Dortmund
+497,Marc Guéhi,"182cm / 6'0""",82kg / 181lb,CB,Right,72,39,65,72,82,77,24,England,Premier League,Crystal Palace
+498,Dávid Hancko,"188cm / 6'2""",82kg / 181lb,CB,Left,78,66,72,74,81,80,27,Slovakia,Eredivisie,Feyenoord
+499,Benjamin Henrichs,"183cm / 6'0""",79kg / 174lb,RB,Right,74,54,76,78,79,74,28,Germany,Bundesliga,RB Leipzig
+500,Rachel Hill,"163cm / 5'4""",56kg / 123lb,RM,Right,81,77,79,78,48,62,29,United States,NWSL,Bay FC
+501,Piero Hincapié,"184cm / 6'0""",77kg / 170lb,CB,Left,78,40,64,72,81,80,23,Ecuador,Bundesliga,Leverkusen
+502,Sofia Jakobsson,"174cm / 5'9""",62kg / 137lb,LM,Right,81,77,78,79,54,72,34,Sweden,NWSL,San Diego Wave
+503,Synne Jensen,"173cm / 5'8""",64kg / 141lb,RW,Right,85,82,78,81,28,79,29,Norway,Liga F,Atlético de Madrid
+504,Ferdi Kadıoğlu,"174cm / 5'9""",73kg / 161lb,LB,Right,88,65,75,85,75,76,25,Turkey,Premier League,Brighton
+505,Daichi Kamada,"184cm / 6'0""",72kg / 159lb,CAM,Right,79,73,80,83,54,63,28,Japan,Premier League,Crystal Palace
+506,Ewelina Kamczyk,"165cm / 5'5""",54kg / 119lb,CAM,Right,78,76,79,83,42,65,29,Poland,Arkema PL,FC Fleury 91
+507,Hasret Kayikci,"163cm / 5'4""",54kg / 119lb,CM,Right,84,76,76,85,61,74,33,Germany,GPFBL,SC Freiburg
+508,Presnel Kimpembe,"189cm / 6'2""",80kg / 176lb,CB,Left,74,43,67,69,81,82,29,France,Ligue 1 McDonald's,Paris SG
+509,Orkun Kökçü,"175cm / 5'9""",69kg / 152lb,CM,Right,72,76,83,80,68,79,24,Turkey,Liga Portugal,SL Benfica
+510,Ezri Konsa,"183cm / 6'0""",77kg / 170lb,CB,Right,76,48,71,76,83,78,27,England,Premier League,Aston Villa
+511,Odilon Kossounou,"191cm / 6'3""",82kg / 181lb,CB,Right,80,32,64,67,82,80,24,Côte d'Ivoire,Serie A Enilive,Bergamo Calcio
+512,Andrej Kramarić,"177cm / 5'10""",73kg / 161lb,ST,Right,71,83,79,84,33,73,33,Croatia,Bundesliga,TSG Hoffenheim
+513,Takefusa Kubo,"173cm / 5'8""",64kg / 141lb,RW,Left,84,76,76,83,40,60,23,Japan,LALIGA EA SPORTS,Real Sociedad
+514,Lo'eau LaBonta,"155cm / 5'1""",55kg / 121lb,CM,Right,84,79,78,79,73,78,31,United States,NWSL,KC Current
+515,Maya Le Tissier,"171cm / 5'7""",59kg / 130lb,CB,Right,76,58,76,72,82,79,22,England,Barclays WSL,Manchester Utd
+516,Alisha Lehmann,"165cm / 5'5""",55kg / 121lb,RW,Right,79,76,74,82,57,70,26,Switzerland,Calcio A Femminile,Juventus
+517,Sydney Leroux,"168cm / 5'6""",66kg / 146lb,ST,Right,75,82,77,77,44,79,34,United States,NWSL,Angel City FC
+518,Melanie Leupolz,"172cm / 5'8""",62kg / 137lb,CDM,Right,79,75,78,83,79,73,30,Germany,Liga F,Real Madrid CF
+519,Ruben Loftus-Cheek,"191cm / 6'3""",88kg / 194lb,CM,Right,81,76,79,82,77,83,29,England,Serie A Enilive,Milano FC
+520,Andriy Lunin,"191cm / 6'3""",83kg / 183lb,GK,Right,80,78,77,82,37,80,26,Ukraine,LALIGA EA SPORTS,Real Madrid
+521,Dzsenifer Marozsán,"171cm / 5'7""",67kg / 148lb,CM,Right,71,81,85,84,65,72,32,Germany,Arkema PL,OL
+522,Iñigo Martínez,"182cm / 6'0""",76kg / 168lb,CB,Left,71,56,67,61,81,80,33,Spain,LALIGA EA SPORTS,FC Barcelona
+523,Noussair Mazraoui,"183cm / 6'0""",65kg / 143lb,RB,Right,78,66,77,83,77,71,27,Morocco,Premier League,Man Utd
+524,Carmen Menayo,"170cm / 5'7""",62kg / 137lb,CB,Left,78,47,68,72,81,76,26,Spain,Liga F,Atlético de Madrid
+525,Brais Méndez,"187cm / 6'2""",76kg / 168lb,CM,Left,71,80,82,81,65,73,28,Spain,LALIGA EA SPORTS,Real Sociedad
+526,Alex Meret,"192cm / 6'4""",82kg / 181lb,GK,Left,80,78,72,84,44,83,27,Italy,Serie A Enilive,SSC Napoli
+527,Tatumn Milazzo,"170cm / 5'7""",58kg / 128lb,LB,Right,65,42,68,70,83,80,26,United States,NWSL,Chicago Red Stars
+528,Arkadiusz Milik,"186cm / 6'1""",80kg / 176lb,ST,Left,56,82,72,77,40,72,31,Poland,Serie A Enilive,Juventus
+529,Kaoru Mitoma,"178cm / 5'10""",71kg / 157lb,LM,Right,84,73,75,85,57,65,27,Japan,Premier League,Brighton
+530,Fernando Muslera,"190cm / 6'3""",74kg / 163lb,GK,Right,81,81,71,80,35,82,38,Uruguay,Trendyol Süper Lig,Galatasaray
+531,Jordan Nobbs,"160cm / 5'3""",52kg / 115lb,CM,Right,75,77,81,83,67,64,32,England,Barclays WSL,Aston Villa
+532,Gabi Nunes,"169cm / 5'7""",59kg / 130lb,ST,Right,85,80,74,81,39,83,28,Brazil,Liga F,Levante UD
+533,Sjoeke Nüsken,"173cm / 5'8""",58kg / 128lb,CM,Right,69,72,76,78,81,76,24,Germany,Barclays WSL,Chelsea
+534,Riccardo Orsolini,"183cm / 6'0""",83kg / 183lb,RM,Left,79,80,78,83,49,67,28,Italy,Serie A Enilive,Bologna
+535,Stefan Ortega,"185cm / 6'1""",88kg / 194lb,GK,Right,79,77,86,84,52,81,32,Germany,Premier League,Manchester City
+536,Nicolás Otamendi,"183cm / 6'0""",78kg / 172lb,CB,Right,60,57,64,59,83,83,37,Argentina,Liga Portugal,SL Benfica
+537,Mayumi Pacheco,"164cm / 5'5""",55kg / 121lb,LB,Left,80,51,75,78,78,77,26,England,Barclays WSL,Aston Villa
+538,Isi Palazón,"169cm / 5'7""",71kg / 157lb,RM,Left,84,78,79,81,39,64,30,Spain,LALIGA EA SPORTS,Rayo Vallecano
+539,Christen Press,"168cm / 5'6""",58kg / 128lb,ST,Right,79,79,80,82,46,69,36,United States,NWSL,Angel City FC
+540,Aaron Ramsdale,"191cm / 6'3""",77kg / 170lb,GK,Right,81,79,85,83,48,78,26,England,Premier League,Southampton
+541,Marcus Rashford,"186cm / 6'1""",70kg / 154lb,LM,Right,89,83,76,82,33,64,27,England,Premier League,Man Utd
+542,David Raum,"180cm / 5'11""",75kg / 165lb,LB,Left,85,61,81,78,73,78,26,Germany,Bundesliga,RB Leipzig
+543,Martina Rosucci,"171cm / 5'7""",61kg / 134lb,CB,Right,73,68,79,80,82,77,32,Italy,Calcio A Femminile,Juventus
+544,Amaiur Sarriegi,"168cm / 5'6""",59kg / 130lb,RW,Right,88,77,75,84,46,81,24,Spain,Liga F,Real Sociedad
+545,Stefan Savić,"187cm / 6'2""",80kg / 176lb,CB,Right,63,35,57,57,83,79,34,Montenegro,Trendyol Süper Lig,Trabzonspor
+546,Xaver Schlager,"174cm / 5'9""",76kg / 168lb,CDM,Left,72,70,74,78,75,79,27,Austria,Bundesliga,RB Leipzig
+547,Jerdy Schouten,"185cm / 6'1""",74kg / 163lb,CDM,Right,65,59,72,76,80,72,28,Holland,Eredivisie,PSV
+548,Caroline Seger,"176cm / 5'9""",62kg / 137lb,CM,Right,49,75,81,77,81,77,39,Sweden,Sverige Liga,FC Rosengård
+549,Linda Sembrant,"175cm / 5'9""",67kg / 148lb,CB,Left,64,33,60,73,82,80,37,Sweden,GPFBL,FC Bayern München
+550,Carolin Simon,"174cm / 5'9""",67kg / 148lb,LB,Left,75,57,74,79,80,71,32,Germany,GPFBL,FC Bayern München
+551,Ellyes Skhiri,"185cm / 6'1""",74kg / 163lb,CDM,Right,60,73,74,75,80,76,29,Tunisia,Bundesliga,Frankfurt
+552,Milan Škriniar,"188cm / 6'2""",80kg / 176lb,CB,Right,57,45,60,65,83,80,30,Slovakia,Ligue 1 McDonald's,Paris SG
+553,Dominic Solanke,"187cm / 6'2""",80kg / 176lb,ST,Right,75,81,66,78,29,83,27,England,Premier League,Spurs
+554,David Soria,"192cm / 6'4""",85kg / 187lb,GK,Right,81,79,73,82,43,80,31,Spain,LALIGA EA SPORTS,Getafe CF
+555,Raheem Sterling,"172cm / 5'8""",69kg / 152lb,LM,Right,85,78,75,85,42,65,30,England,Premier League,Arsenal
+556,Andi Sullivan,"168cm / 5'6""",57kg / 126lb,CDM,Right,65,61,78,75,79,79,29,United States,NWSL,Washington Spirit
+557,Dominik Szoboszlai,"186cm / 6'1""",74kg / 163lb,CAM,Right,82,80,84,80,59,70,24,Hungary,Premier League,Liverpool
+558,Youri Tielemans,"176cm / 5'9""",72kg / 159lb,CM,Right,44,79,83,79,69,70,27,Belgium,Premier League,Aston Villa
+559,Sandie Toletti,"169cm / 5'7""",61kg / 134lb,CM,Right,79,76,83,80,72,76,29,France,Liga F,Real Madrid CF
+560,Manuel Ugarte,"182cm / 6'0""",77kg / 170lb,CDM,Right,69,65,73,77,78,80,23,Uruguay,Premier League,Man Utd
+561,Deniz Undav,"179cm / 5'10""",86kg / 190lb,ST,Right,67,82,75,80,33,78,28,Germany,Bundesliga,VfB Stuttgart
+562,Álvaro Valles,"192cm / 6'4""",82kg / 181lb,GK,Right,80,79,79,83,41,81,27,Spain,LALIGA EA SPORTS,UD Las Palmas
+563,Lucas Vázquez,"173cm / 5'8""",70kg / 154lb,RB,Right,81,74,80,81,74,69,33,Spain,LALIGA EA SPORTS,Real Madrid
+564,Joey Veerman,"185cm / 6'1""",75kg / 165lb,CM,Right,55,72,85,77,66,72,26,Holland,Eredivisie,PSV
+565,Évelyne Viens,"173cm / 5'8""",64kg / 141lb,ST,Right,81,80,61,80,25,63,28,Canada,Calcio A Femminile,Roma
+566,Vivian,"183cm / 6'0""",83kg / 183lb,CB,Right,79,48,57,69,82,81,25,Spain,LALIGA EA SPORTS,Athletic Club
+567,Callum Wilson,"180cm / 5'11""",66kg / 146lb,ST,Right,78,82,67,79,42,75,33,England,Premier League,Newcastle Utd
+568,Lotte Wubben-Moy,"178cm / 5'10""",67kg / 148lb,CB,Right,58,42,62,65,83,76,26,England,Barclays WSL,Arsenal
+569,Lamine Yamal,"180cm / 5'11""",65kg / 143lb,RW,Left,82,75,76,82,23,48,17,Spain,LALIGA EA SPORTS,FC Barcelona
+570,Wilfried Zaha,"180cm / 5'11""",66kg / 146lb,LM,Right,86,78,73,85,37,75,32,Côte d'Ivoire,Ligue 1 McDonald's,OL
+571,Bia Zaneratto,"174cm / 5'9""",72kg / 159lb,ST,Left,71,83,73,81,50,82,31,Brazil,NWSL,KC Current
+572,Piotr Zieliński,"180cm / 5'11""",75kg / 165lb,CM,Right,78,76,80,83,71,62,30,Poland,Serie A Enilive,Lombardia FC
+573,Zubimendi,"181cm / 5'11""",74kg / 163lb,CDM,Right,64,67,75,77,78,71,26,Spain,LALIGA EA SPORTS,Real Sociedad
+574,Tere Abelleira,"160cm / 5'3""",59kg / 130lb,CM,Right,74,78,77,81,72,72,25,Spain,Liga F,Real Madrid CF
+575,Salem Al Dawsari,"173cm / 5'8""",71kg / 157lb,LM,Right,85,75,72,84,52,80,33,Saudi Arabia,ROSHN Saudi League,Al Hilal
+576,Ali Al Musrati,"189cm / 6'2""",83kg / 183lb,CDM,Right,62,66,71,71,78,84,28,Libya,Trendyol Süper Lig,Beşiktaş
+577,Jordi Alba,"170cm / 5'7""",68kg / 150lb,LB,Left,82,70,80,81,72,69,35,Spain,MLS,Inter Miami CF
+578,Toby Alderweireld,"187cm / 6'2""",91kg / 201lb,CB,Right,50,61,74,66,81,82,36,Belgium,1A Pro League,Royal Antwerp FC
+579,Joachim Andersen,"192cm / 6'4""",90kg / 198lb,CB,Right,52,57,72,66,79,84,28,Denmark,Premier League,Fulham
+580,Benjamin André,"180cm / 5'11""",76kg / 168lb,CDM,Right,61,64,73,75,78,83,34,France,Ligue 1 McDonald's,LOSC Lille
+581,Karen Araya,"164cm / 5'5""",64kg / 141lb,CM,Right,58,79,80,76,66,78,34,Chile,Liga F,Madrid CFF
+582,Marko Arnautović,"192cm / 6'4""",83kg / 183lb,ST,Right,70,79,78,79,44,78,35,Austria,Serie A Enilive,Lombardia FC
+583,Maximilian Arnold,"184cm / 6'0""",74kg / 163lb,CDM,Left,63,79,79,77,76,76,30,Germany,Bundesliga,VfL Wolfsburg
+584,Fredrik Aursnes,"179cm / 5'10""",71kg / 157lb,RB,Right,76,66,77,80,76,81,29,Norway,Liga Portugal,SL Benfica
+585,Ane Azkona,"164cm / 5'5""",56kg / 123lb,RM,Right,81,76,78,78,54,72,26,Spain,Liga F,Athletic Club
+586,Simon Banza,"189cm / 6'2""",77kg / 170lb,ST,Right,75,80,56,76,36,77,28,Congo DR,Trendyol Süper Lig,Trabzonspor
+587,Roberto Firmino,"181cm / 5'11""",76kg / 168lb,CAM,Right,67,75,79,85,58,76,33,Brazil,ROSHN Saudi League,Al Ahli
+588,Bradley Barcola,"186cm / 6'1""",70kg / 154lb,LW,Right,88,74,75,81,34,64,22,France,Ligue 1 McDonald's,Paris SG
+589,Harvey Barnes,"185cm / 6'1""",72kg / 159lb,LW,Right,85,78,75,81,43,68,27,England,Premier League,Newcastle Utd
+590,Christoph Baumgartner,"180cm / 5'11""",73kg / 161lb,CAM,Right,77,74,74,82,47,60,25,Austria,Bundesliga,RB Leipzig
+591,Walter Benítez,"191cm / 6'3""",93kg / 205lb,GK,Right,79,78,72,82,37,79,32,Argentina,Eredivisie,PSV
+592,Gonçalo Inácio,"185cm / 6'1""",78kg / 172lb,CB,Left,80,37,64,71,81,79,23,Portugal,Liga Portugal,Sporting CP
+593,Charlotte Bilbault,"168cm / 5'6""",65kg / 143lb,CDM,Right,54,64,69,64,81,85,34,France,Arkema PL,Montpellier
+594,Nicole Billa,"168cm / 5'6""",59kg / 130lb,ST,Right,81,81,68,80,42,81,29,Austria,GPFBL,1. FC Köln
+595,Yves Bissouma,"182cm / 6'0""",78kg / 172lb,CDM,Right,71,67,75,81,78,77,28,Mali,Premier League,Spurs
+596,Daley Blind,"180cm / 5'11""",72kg / 159lb,CB,Left,36,62,83,77,83,70,35,Holland,LALIGA EA SPORTS,Girona FC
+597,Denis Bouanga,"180cm / 5'11""",71kg / 157lb,LW,Right,85,81,74,79,38,79,30,Gabon,MLS,LAFC
+598,Yan Couto,"168cm / 5'6""",60kg / 132lb,RM,Right,85,61,76,81,72,64,22,Brazil,Bundesliga,Borussia Dortmund
+599,Alessandro Buongiorno,"190cm / 6'3""",86kg / 190lb,CB,Left,65,45,69,65,82,76,25,Italy,Serie A Enilive,SSC Napoli
+600,Kessya Bussy,"165cm / 5'5""",52kg / 115lb,LM,Right,81,78,73,84,43,54,23,France,Arkema PL,Paris FC
+601,Davide Calabria,"177cm / 5'10""",70kg / 154lb,RB,Right,78,57,70,76,79,71,28,Italy,Serie A Enilive,Milano FC
+602,Viola Calligaris,"167cm / 5'6""",58kg / 128lb,CB,Right,79,59,72,75,81,80,28,Switzerland,Calcio A Femminile,Juventus
+603,Deyna Castellanos,"170cm / 5'7""",63kg / 139lb,CM,Right,74,83,80,83,55,72,25,Venezuela,NWSL,Bay FC
+604,Lucas Chevalier,"189cm / 6'2""",78kg / 172lb,GK,Right,80,79,72,83,45,78,23,France,Ligue 1 McDonald's,LOSC Lille
+605,Samuel Chukwueze,"172cm / 5'8""",70kg / 154lb,RW,Left,88,74,74,83,36,61,25,Nigeria,Serie A Enilive,Milano FC
+606,Jonathan Clauss,"178cm / 5'10""",69kg / 152lb,RB,Right,88,69,76,78,73,69,32,France,Ligue 1 McDonald's,OGC Nice
+607,Rachel Corboz,"165cm / 5'5""",58kg / 128lb,CM,Right,58,74,80,81,71,64,28,United States,Arkema PL,Stade de Reims
+608,Marine Dafeur,"166cm / 5'5""",66kg / 146lb,CM,Left,73,74,80,80,68,76,30,Algeria,Arkema PL,FC Fleury 91
+609,Abby Dahlkemper,"170cm / 5'7""",60kg / 132lb,CB,Right,46,47,61,63,84,72,31,United States,NWSL,Bay FC
+610,Kevin Danso,"190cm / 6'3""",85kg / 187lb,CB,Right,75,32,57,62,80,85,26,Austria,Ligue 1 McDonald's,RC Lens
+611,Tierna Davidson,"177cm / 5'10""",65kg / 143lb,CB,Left,68,50,65,65,84,76,26,United States,NWSL,NJ/NY Gotham
+612,Evanilson,"181cm / 5'11""",77kg / 170lb,ST,Right,76,78,65,78,37,80,25,Brazil,Premier League,AFC Bournemouth
+613,De Marcos,"182cm / 6'0""",78kg / 172lb,RB,Right,79,64,74,75,77,78,35,Spain,LALIGA EA SPORTS,Athletic Club
+614,Michele Di Gregorio,"187cm / 6'2""",82kg / 181lb,GK,Right,82,78,78,82,56,82,27,Italy,Serie A Enilive,Juventus
+615,Eric Dier,"191cm / 6'3""",91kg / 201lb,CB,Right,58,63,70,63,81,81,31,England,Bundesliga,FC Bayern München
+616,Jérémy Doku,"173cm / 5'8""",77kg / 170lb,LW,Right,92,72,73,86,30,68,22,Belgium,Premier League,Manchester City
+617,Éderson,"183cm / 6'0""",86kg / 190lb,CM,Right,72,68,75,79,77,80,25,Brazil,Serie A Enilive,Bergamo Calcio
+618,Barbara Dunst,"168cm / 5'6""",60kg / 132lb,CM,Right,66,69,76,81,76,71,27,Austria,GPFBL,Frankfurt
+619,Jun Endo,"163cm / 5'4""",60kg / 132lb,LW,Left,86,76,76,79,45,70,24,Japan,NWSL,Angel City FC
+620,Wataru Endo,"178cm / 5'10""",77kg / 170lb,CDM,Right,60,68,71,78,79,76,32,Japan,Premier League,Liverpool
+621,Pervis Estupiñán,"175cm / 5'9""",79kg / 174lb,LB,Left,78,57,75,79,77,75,27,Ecuador,Premier League,Brighton
+622,Wladimiro Falcone,"196cm / 6'5""",85kg / 187lb,GK,Right,83,79,75,84,27,76,29,Italy,Serie A Enilive,Lecce
+623,Laura Feiersinger,"167cm / 5'6""",56kg / 123lb,CM,Right,82,68,77,80,68,69,31,Austria,GPFBL,1. FC Köln
+624,João Félix,"181cm / 5'11""",70kg / 154lb,LW,Right,80,78,77,84,40,67,25,Portugal,Premier League,Chelsea
+625,Naomie Feller,"170cm / 5'7""",65kg / 143lb,ST,Right,91,80,70,81,34,75,23,France,Liga F,Real Madrid CF
+626,Suso,"177cm / 5'10""",70kg / 154lb,RM,Left,72,76,80,83,32,51,31,Spain,LALIGA EA SPORTS,Sevilla FC
+627,Tatiana Pinto,"167cm / 5'6""",55kg / 121lb,CM,Right,76,77,76,79,68,66,30,Portugal,Liga F,Atlético de Madrid
+628,Jessie Fleming,"164cm / 5'5""",54kg / 119lb,CM,Right,82,77,77,82,68,51,26,Canada,NWSL,Portland Thorns
+629,Seko Fofana,"185cm / 6'1""",74kg / 163lb,CM,Right,71,77,76,78,73,86,29,Côte d'Ivoire,ROSHN Saudi League,Ettifaq FC
+630,Juan Foyth,"187cm / 6'2""",83kg / 183lb,RB,Right,71,46,71,72,81,77,27,Argentina,LALIGA EA SPORTS,Villarreal CF
+631,Sanni Franssi,"167cm / 5'6""",65kg / 143lb,ST,Right,85,79,74,79,32,76,29,Finland,Liga F,Real Sociedad
+632,Javi Galán,"172cm / 5'8""",70kg / 154lb,LB,Left,79,56,74,79,77,72,30,Spain,LALIGA EA SPORTS,Atlético de Madrid
+633,Lola Gallardo,"172cm / 5'8""",57kg / 126lb,GK,Right,81,75,77,82,51,80,31,Spain,Liga F,Atlético de Madrid
+634,Maëlle Garbino,"162cm / 5'4""",54kg / 119lb,CAM,Left,73,78,78,82,53,60,28,France,Arkema PL,Paris FC
+635,Pepelu,"186cm / 6'1""",73kg / 161lb,CM,Right,68,70,80,77,75,78,26,Spain,LALIGA EA SPORTS,Valencia CF
+636,Hanna Glas,"172cm / 5'8""",64kg / 141lb,RB,Right,73,50,70,70,81,77,31,Sweden,NWSL,Seattle Reign
+637,Nuno Santos,"177cm / 5'10""",72kg / 159lb,LM,Left,83,81,76,80,70,76,30,Portugal,Liga Portugal,Sporting CP
+638,Joe Gomez,"188cm / 6'2""",77kg / 170lb,CB,Right,82,28,71,72,80,79,27,England,Premier League,Liverpool
+639,Nicolás González,"180cm / 5'11""",72kg / 159lb,RW,Left,85,76,73,83,45,62,26,Argentina,Serie A Enilive,Juventus
+640,Ana González,"160cm / 5'3""",61kg / 134lb,CDM,Right,66,68,71,69,80,85,29,Spain,Liga F,Levante Badalona
+641,Mario Götze,"176cm / 5'9""",72kg / 159lb,CAM,Right,55,74,83,83,55,69,32,Germany,Bundesliga,Frankfurt
+642,Vincenzo Grifo,"180cm / 5'11""",80kg / 176lb,LM,Right,69,77,82,81,43,64,31,Italy,Bundesliga,SC Freiburg
+643,Nemanja Gudelj,"187cm / 6'2""",79kg / 174lb,CB,Right,54,73,78,70,79,85,33,Serbia,LALIGA EA SPORTS,Sevilla FC
+644,Albert Guðmundsson,"178cm / 5'10""",78kg / 172lb,ST,Right,87,79,70,83,37,72,27,Iceland,Serie A Enilive,Fiorentina
+645,Mattéo Guendouzi,"185cm / 6'1""",68kg / 150lb,CM,Right,72,71,78,79,75,81,25,France,Serie A Enilive,Latium
+646,Sheila,"170cm / 5'7""",64kg / 141lb,ST,Right,80,80,68,77,52,70,28,Spain,Liga F,Atlético de Madrid
+647,Malo Gusto,"178cm / 5'10""",67kg / 148lb,RB,Right,88,49,75,78,73,75,21,France,Premier League,Chelsea
+648,Miguel Gutiérrez,"180cm / 5'11""",73kg / 161lb,LB,Left,81,64,76,80,75,72,23,Spain,LALIGA EA SPORTS,Girona FC
+649,Amadou Haidara,"175cm / 5'9""",72kg / 159lb,CM,Right,66,72,79,81,72,69,27,Mali,Bundesliga,RB Leipzig
+650,Didi Haračić,"173cm / 5'8""",65kg / 143lb,GK,Right,80,78,73,80,43,78,32,Bosnia and Herzegovina,NWSL,Angel City FC
+651,Danilo Pereira,"188cm / 6'2""",83kg / 183lb,CB,Right,50,63,70,70,80,84,33,Portugal,ROSHN Saudi League,Al Ittihad
+652,Jordan Henderson,"187cm / 6'2""",80kg / 176lb,CDM,Right,64,72,81,76,75,78,34,England,Eredivisie,Ajax
+653,Oihane Hernández,"165cm / 5'5""",59kg / 130lb,RB,Right,77,62,75,73,78,74,24,Spain,Liga F,Real Madrid CF
+654,Morten Hjulmand,"185cm / 6'1""",77kg / 170lb,CDM,Right,65,66,76,74,75,83,25,Denmark,Liga Portugal,Sporting CP
+655,Pierre-Emile Højbjerg,"187cm / 6'2""",84kg / 185lb,CDM,Right,50,73,76,74,77,80,29,Denmark,Ligue 1 McDonald's,OM
+656,Ibañez,"185cm / 6'1""",73kg / 161lb,CB,Right,85,32,45,60,81,82,26,Brazil,ROSHN Saudi League,Al Ahli
+657,Sophie Ingle,"173cm / 5'8""",62kg / 137lb,CDM,Right,64,65,75,76,77,68,33,Wales,Barclays WSL,Chelsea
+658,Kerolin Nicoli,"164cm / 5'5""",60kg / 132lb,RM,Right,81,74,76,81,42,75,25,Brazil,NWSL,NC Courage
+659,Lisa Karl,"168cm / 5'6""",60kg / 132lb,RB,Right,81,64,70,80,79,72,28,Germany,GPFBL,SC Freiburg
+660,Khiara Keating,"167cm / 5'6""",70kg / 154lb,GK,Right,78,79,81,80,31,80,20,England,Barclays WSL,Manchester City
+661,Sophia Kleinherne,"169cm / 5'7""",56kg / 123lb,CB,Right,74,46,67,73,82,74,24,Germany,GPFBL,Frankfurt
+662,Rosemonde Kouassi,"164cm / 5'5""",54kg / 119lb,RM,Right,94,80,71,80,37,69,23,Côte d'Ivoire,NWSL,Washington Spirit
+663,Bento,"190cm / 6'3""",80kg / 176lb,GK,Right,79,76,77,83,28,81,25,Brazil,ROSHN Saudi League,Al Nassr
+664,Hayley Ladd,"172cm / 5'8""",64kg / 141lb,CDM,Right,59,57,72,70,78,78,31,Wales,Barclays WSL,Manchester Utd
+665,Maëlle Lakrar,"172cm / 5'8""",56kg / 123lb,CB,Right,76,46,67,71,83,74,24,France,Liga F,Real Madrid CF
+666,Lena Lattwein,"176cm / 5'9""",65kg / 143lb,CDM,Right,69,71,78,81,75,81,24,Germany,GPFBL,VfL Wolfsburg
+667,Thomas Lemar,"171cm / 5'7""",66kg / 146lb,CM,Left,81,77,81,83,67,64,29,France,LALIGA EA SPORTS,Atlético de Madrid
+668,Dominik Livaković,"188cm / 6'2""",79kg / 174lb,GK,Right,80,76,71,83,56,80,30,Croatia,Trendyol Süper Lig,Fenerbahçe
+669,Giovani Lo Celso,"177cm / 5'10""",68kg / 150lb,CAM,Left,69,74,81,83,68,71,28,Argentina,LALIGA EA SPORTS,Real Betis
+670,David López,"183cm / 6'0""",81kg / 179lb,CB,Right,45,60,71,66,82,75,35,Spain,LALIGA EA SPORTS,Girona FC
+671,Katie Lund,"185cm / 6'1""",65kg / 143lb,GK,Right,78,78,73,83,40,79,28,United States,NWSL,Rac. Louisville
+672,Harry Maguire,"193cm / 6'4""",100kg / 220lb,CB,Right,37,57,70,65,80,82,32,England,Premier League,Man Utd
+673,Reinildo,"180cm / 5'11""",73kg / 161lb,LB,Left,84,55,68,75,78,79,31,Mozambique,LALIGA EA SPORTS,Atlético de Madrid
+674,Iván Martín,"178cm / 5'10""",70kg / 154lb,CAM,Left,75,75,79,81,68,63,26,Spain,LALIGA EA SPORTS,Girona FC
+675,Martín-Prieto,"173cm / 5'8""",74kg / 163lb,ST,Right,78,81,70,75,51,87,31,Spain,Liga Portugal Feminino,SL Benfica
+676,Nemanja Matić,"194cm / 6'4""",85kg / 187lb,CDM,Left,35,67,76,76,78,78,36,Serbia,Ligue 1 McDonald's,OL
+677,Bryan Mbeumo,"171cm / 5'7""",75kg / 165lb,RW,Left,84,80,74,80,49,76,25,Cameroon,Premier League,Brentford
+678,Facundo Medina,"184cm / 6'0""",77kg / 170lb,CB,Left,73,36,69,72,80,79,25,Argentina,Ligue 1 McDonald's,RC Lens
+679,Andrea Medina,"165cm / 5'5""",52kg / 115lb,LB,Left,80,55,74,71,79,76,20,Spain,Liga F,Atlético de Madrid
+680,Erëleta Memeti,"166cm / 5'5""",57kg / 126lb,LW,Right,84,70,76,80,51,64,25,Kosovo,GPFBL,TSG Hoffenheim
+681,Nuria Mendoza,"170cm / 5'7""",66kg / 146lb,CB,Right,71,56,71,65,81,79,29,Spain,Liga F,Madrid CFF
+682,Édouard Mendy,"197cm / 6'6""",86kg / 190lb,GK,Right,78,77,75,81,34,79,33,Senegal,ROSHN Saudi League,Al Ahli
+683,Dries Mertens,"169cm / 5'7""",61kg / 134lb,CAM,Right,68,78,81,81,43,50,37,Belgium,Trendyol Süper Lig,Galatasaray
+684,Daniel Muñoz,"181cm / 5'11""",73kg / 161lb,RB,Right,84,66,72,76,75,82,28,Colombia,Premier League,Crystal Palace
+685,Vedat Muriqi,"194cm / 6'4""",92kg / 203lb,ST,Left,53,82,63,73,29,82,30,Kosovo,LALIGA EA SPORTS,RCD Mallorca
+686,João Mário,"179cm / 5'10""",73kg / 161lb,LM,Right,68,76,80,82,64,68,32,Portugal,Trendyol Süper Lig,Beşiktaş
+687,Jesús Navas,"172cm / 5'8""",60kg / 132lb,RB,Right,81,68,79,80,76,55,39,Spain,LALIGA EA SPORTS,Sevilla FC
+688,David Neres,"175cm / 5'9""",69kg / 152lb,LM,Left,86,75,75,86,43,64,28,Brazil,Serie A Enilive,SSC Napoli
+689,Alexander Nübel,"193cm / 6'4""",86kg / 190lb,GK,Right,81,76,81,82,48,78,28,Germany,Bundesliga,VfB Stuttgart
+690,Kelley O'Hara,"165cm / 5'5""",55kg / 121lb,RB,Right,83,56,72,75,78,73,36,United States,NWSL,NJ/NY Gotham
+691,Denise O'Sullivan,"163cm / 5'4""",56kg / 123lb,CDM,Right,82,70,72,78,78,79,31,Republic of Ireland,NWSL,NC Courage
+692,Mario Pašalić,"188cm / 6'2""",82kg / 181lb,CM,Right,69,78,77,81,67,77,30,Croatia,Serie A Enilive,Bergamo Calcio
+693,Vangelis Pavlidis,"186cm / 6'1""",78kg / 172lb,ST,Right,75,82,67,78,44,82,26,Greece,Liga Portugal,SL Benfica
+694,Matteo Politano,"171cm / 5'7""",65kg / 143lb,RW,Left,80,78,78,83,42,54,31,Italy,Serie A Enilive,SSC Napoli
+695,Midge Purce,"163cm / 5'4""",56kg / 123lb,RW,Right,89,76,76,79,42,73,29,United States,NWSL,NJ/NY Gotham
+696,Ivan Rakitić,"184cm / 6'0""",78kg / 172lb,CM,Right,48,79,83,77,74,70,37,Croatia,Liga Hrvatska,Hajduk Split
+697,Géraldine Reuteler,"163cm / 5'4""",56kg / 123lb,CM,Right,89,75,77,84,56,75,25,Switzerland,GPFBL,Frankfurt
+698,Faustine Robert,"166cm / 5'5""",48kg / 106lb,RM,Right,89,78,77,79,55,54,30,France,Arkema PL,FC Fleury 91
+699,Amir Rrahmani,"192cm / 6'4""",75kg / 165lb,CB,Right,69,51,58,61,82,78,31,Kosovo,Serie A Enilive,SSC Napoli
+700,Ruiz de Galarreta,"175cm / 5'9""",69kg / 152lb,CDM,Right,72,65,77,79,77,76,31,Spain,LALIGA EA SPORTS,Athletic Club
+701,Allan Saint-Maximin,"173cm / 5'8""",67kg / 148lb,LM,Right,89,72,73,87,29,68,27,France,Trendyol Süper Lig,Fenerbahçe
+702,Davinson Sánchez,"187cm / 6'2""",81kg / 179lb,CB,Right,77,47,55,65,79,82,28,Colombia,Trendyol Süper Lig,Galatasaray
+703,Diego Carlos,"186cm / 6'1""",79kg / 174lb,CB,Right,63,47,63,67,79,76,31,Brazil,Premier League,Aston Villa
+704,Téji Savanier,"172cm / 5'8""",69kg / 152lb,CAM,Right,60,76,84,82,68,68,33,France,Ligue 1 McDonald's,Montpellier
+705,Kasper Schmeichel,"189cm / 6'2""",88kg / 194lb,GK,Right,77,76,79,78,42,80,38,Denmark,Scottish Prem,Celtic
+706,Elisa Senß,"161cm / 5'3""",55kg / 121lb,CDM,Right,66,68,78,83,74,66,27,Germany,GPFBL,Frankfurt
+707,William Carvalho,"187cm / 6'2""",79kg / 174lb,CDM,Right,37,68,78,76,76,84,32,Portugal,LALIGA EA SPORTS,Real Betis
+708,Mohamed Simakan,"187cm / 6'2""",82kg / 181lb,CB,Right,75,43,65,69,81,80,24,France,ROSHN Saudi League,Al Nassr
+709,Sebastian Szymański,"174cm / 5'9""",60kg / 132lb,CAM,Left,81,77,79,79,51,67,25,Poland,Trendyol Süper Lig,Fenerbahçe
+710,Mehdi Taremi,"185cm / 6'1""",83kg / 183lb,ST,Right,78,79,75,81,38,73,32,Iran,Serie A Enilive,Lombardia FC
+711,James Tarkowski,"188cm / 6'2""",81kg / 179lb,CB,Right,47,45,64,59,81,81,32,England,Premier League,Everton
+712,Jean-Clair Todibo,"190cm / 6'3""",88kg / 194lb,CB,Right,81,47,64,69,80,78,25,France,Premier League,West Ham
+713,Ivan Toney,"187cm / 6'2""",76kg / 168lb,ST,Right,77,81,71,75,51,81,28,England,ROSHN Saudi League,Al Ahli
+714,Marta Torrejón,"171cm / 5'7""",59kg / 130lb,RB,Right,63,54,74,73,80,75,35,Spain,Liga F,FC Barcelona
+715,Marion Torrent,"164cm / 5'5""",53kg / 117lb,CDM,Right,70,58,74,76,81,73,32,France,Arkema PL,Montpellier
+716,Ferran Torres,"184cm / 6'0""",77kg / 170lb,LW,Right,84,78,76,81,35,68,25,Spain,LALIGA EA SPORTS,FC Barcelona
+717,Hamari Traoré,"175cm / 5'9""",64kg / 141lb,RB,Right,82,57,72,76,75,78,33,Mali,LALIGA EA SPORTS,Real Sociedad
+718,Lars Unnerstall,"198cm / 6'6""",103kg / 227lb,GK,Right,80,80,66,83,32,80,34,Germany,Eredivisie,FC Twente
+719,André Silva,"185cm / 6'1""",84kg / 185lb,ST,Right,74,80,71,81,46,77,29,Portugal,Bundesliga,RB Leipzig
+720,Hans Vanaken,"195cm / 6'5""",77kg / 170lb,CAM,Right,45,79,83,77,60,76,32,Belgium,1A Pro League,Club Brugge
+721,Jordan Veretout,"177cm / 5'10""",67kg / 148lb,CM,Right,75,75,78,79,75,80,32,France,Ligue 1 McDonald's,OL
+722,Ainhoa Moraza,"166cm / 5'5""",53kg / 117lb,RB,Right,80,45,66,66,77,66,29,Spain,Liga F,Atlético de Madrid
+723,Timo Werner,"180cm / 5'11""",76kg / 168lb,LM,Right,91,79,69,80,35,69,29,Germany,Premier League,Spurs
+724,Mats Wieffer,"188cm / 6'2""",78kg / 172lb,CDM,Right,70,66,74,75,76,83,25,Holland,Premier League,Brighton
+725,Axel Witsel,"186cm / 6'1""",81kg / 179lb,CB,Right,34,63,77,75,83,75,36,Belgium,LALIGA EA SPORTS,Atlético de Madrid
+726,Barış Alper Yılmaz,"186cm / 6'1""",80kg / 176lb,RM,Right,91,75,71,82,67,84,24,Turkey,Trendyol Süper Lig,Galatasaray
+727,Sarah Zadrazil,"167cm / 5'6""",60kg / 132lb,CDM,Right,51,66,72,80,75,83,32,Austria,GPFBL,FC Bayern München
+728,Warren Zaïre-Emery,"178cm / 5'10""",68kg / 150lb,CM,Right,79,68,77,80,75,78,19,France,Ligue 1 McDonald's,Paris SG
+729,André-Franck Zambo Anguissa,"184cm / 6'0""",83kg / 183lb,CDM,Right,75,67,71,76,77,88,29,Cameroon,Serie A Enilive,SSC Napoli
+730,Lucas Zelarayán,"172cm / 5'8""",70kg / 154lb,CAM,Right,71,77,79,83,46,67,32,Armenia,ROSHN Saudi League,Al Fateh
+731,Hakim Ziyech,"181cm / 5'11""",65kg / 143lb,RM,Left,74,77,82,80,50,66,31,Morocco,Trendyol Süper Lig,Galatasaray
+732,Zubeldia,"181cm / 5'11""",73kg / 161lb,CB,Right,78,63,74,73,80,82,27,Spain,LALIGA EA SPORTS,Real Sociedad
+733,Karim Adeyemi,"180cm / 5'11""",77kg / 170lb,LM,Left,96,73,71,81,34,70,23,Germany,Bundesliga,Borussia Dortmund
+734,Sara Agrež,"172cm / 5'8""",66kg / 146lb,LB,Left,76,48,70,65,79,79,24,Slovenia,GPFBL,1. FC Köln
+735,Nayef Aguerd,"190cm / 6'3""",76kg / 168lb,CB,Left,67,50,64,64,81,75,28,Morocco,LALIGA EA SPORTS,Real Sociedad
+736,Eseosa Aigbogun,"166cm / 5'5""",56kg / 123lb,LB,Right,81,56,69,71,78,67,31,Switzerland,Calcio A Femminile,Roma
+737,Rayan Aït-Nouri,"180cm / 5'11""",70kg / 154lb,LB,Left,84,52,73,82,73,70,23,Algeria,Premier League,Wolves
+738,Raúl Albiol,"190cm / 6'3""",82kg / 181lb,CB,Right,33,41,62,63,83,67,39,Spain,LALIGA EA SPORTS,Villarreal CF
+739,Iris Arnaiz,"168cm / 5'6""",60kg / 132lb,CDM,Right,69,67,74,73,79,77,30,Spain,Liga F,Sevilla FC
+740,Kepa,"189cm / 6'2""",85kg / 187lb,GK,Right,78,77,83,82,40,77,30,Spain,Premier League,AFC Bournemouth
+741,Emil Audero,"192cm / 6'4""",83kg / 183lb,GK,Right,80,74,73,83,53,76,28,Italy,Serie A Enilive,Como
+742,Ezequiel Ávila,"172cm / 5'8""",81kg / 179lb,ST,Right,77,80,65,77,45,85,31,Argentina,LALIGA EA SPORTS,Real Betis
+743,Azpilicueta,"178cm / 5'10""",77kg / 170lb,CB,Right,59,55,76,72,81,74,35,Spain,LALIGA EA SPORTS,Atlético de Madrid
+744,Álex Baena,"174cm / 5'9""",69kg / 152lb,LM,Right,74,75,80,78,65,67,23,Spain,LALIGA EA SPORTS,Villarreal CF
+745,Alexander Bah,"183cm / 6'0""",75kg / 165lb,RB,Right,91,65,72,75,74,81,27,Denmark,Liga Portugal,SL Benfica
+746,Johan Bakayoko,"179cm / 5'10""",70kg / 154lb,RW,Left,86,71,70,82,33,63,21,Belgium,Eredivisie,PSV
+747,Leonardo Balerdi,"187cm / 6'2""",85kg / 187lb,CB,Right,64,45,62,68,80,77,26,Argentina,Ligue 1 McDonald's,OM
+748,Elizabeth Ball,"168cm / 5'6""",60kg / 132lb,CB,Right,39,44,59,63,82,73,29,United States,NWSL,KC Current
+749,Éver Banega,"176cm / 5'9""",78kg / 172lb,CM,Right,52,73,81,78,73,73,36,Argentina,Primera División,Newell's
+750,Estefanía Banini,"160cm / 5'3""",58kg / 128lb,CM,Right,75,80,80,81,64,65,34,Argentina,Liga F,Levante Badalona
+751,Abdülkerim Bardakcı,"185cm / 6'1""",80kg / 176lb,CB,Left,61,45,71,69,79,86,30,Turkey,Trendyol Süper Lig,Galatasaray
+752,Molly Bartrip,"164cm / 5'5""",58kg / 128lb,CB,Right,69,56,69,68,81,77,28,England,Barclays WSL,Spurs
+753,Vicki Becho,"168cm / 5'6""",62kg / 137lb,ST,Right,84,77,70,85,45,65,21,France,Arkema PL,OL
+754,Laura Benkarth,"176cm / 5'9""",73kg / 161lb,GK,Right,81,80,79,78,45,77,32,Germany,Arkema PL,OL
+755,Yuri Berchiche,"181cm / 5'11""",80kg / 176lb,LB,Left,79,68,74,75,77,83,35,Spain,LALIGA EA SPORTS,Athletic Club
+756,Steven Berghuis,"182cm / 6'0""",75kg / 165lb,RW,Left,72,80,82,79,39,66,33,Holland,Eredivisie,Ajax
+757,Steven Bergwijn,"178cm / 5'10""",78kg / 172lb,LW,Right,80,76,74,82,41,70,27,Holland,ROSHN Saudi League,Al Ittihad
+758,Cristiano Biraghi,"185cm / 6'1""",78kg / 172lb,LB,Left,72,69,78,76,76,73,32,Italy,Serie A Enilive,Fiorentina
+759,Marco Bizot,"193cm / 6'4""",88kg / 194lb,GK,Right,79,76,72,80,46,79,34,Holland,Ligue 1 McDonald's,Stade Brestois 29
+760,Vilde Bøe Risa,"165cm / 5'5""",55kg / 121lb,CM,Right,64,68,73,79,63,74,29,Norway,Liga F,Atlético de Madrid
+761,Sacha Boey,"178cm / 5'10""",76kg / 168lb,RB,Right,82,55,66,77,78,80,24,France,Bundesliga,FC Bayern München
+762,Giacomo Bonaventura,"180cm / 5'11""",75kg / 165lb,CAM,Right,65,78,80,80,70,64,35,Italy,ROSHN Saudi League,Al Shabab
+763,Jarrad Branthwaite,"195cm / 6'5""",74kg / 163lb,CB,Left,71,37,53,59,79,77,22,England,Premier League,Everton
+764,Brian Brobbey,"180cm / 5'11""",78kg / 172lb,ST,Right,85,76,57,73,30,80,23,Holland,Eredivisie,Ajax
+765,Signe Bruun,"178cm / 5'10""",68kg / 150lb,ST,Right,67,78,63,72,45,75,26,Denmark,Liga F,Real Madrid CF
+766,Marcin Bułka,"199cm / 6'6""",90kg / 198lb,GK,Right,79,76,71,81,27,79,25,Poland,Ligue 1 McDonald's,OGC Nice
+767,Linda Caicedo,"163cm / 5'4""",54kg / 119lb,LW,Right,86,70,79,80,38,47,20,Colombia,Liga F,Real Madrid CF
+768,Jelena Čanković,"162cm / 5'4""",57kg / 126lb,CM,Left,73,79,75,82,59,71,29,Serbia,Barclays WSL,Brighton
+769,Matheus Cunha,"183cm / 6'0""",76kg / 168lb,ST,Right,84,78,76,83,44,75,25,Brazil,Premier League,Wolves
+770,Matty Cash,"185cm / 6'1""",74kg / 163lb,RB,Right,77,66,71,75,75,76,27,Poland,Premier League,Aston Villa
+771,Valentin Castellanos,"178cm / 5'10""",70kg / 154lb,ST,Right,72,79,69,75,42,77,26,Argentina,Serie A Enilive,Latium
+772,Catena,"194cm / 6'4""",82kg / 181lb,CB,Right,65,39,63,53,80,78,30,Spain,LALIGA EA SPORTS,CA Osasuna
+773,Dani Ceballos,"179cm / 5'10""",70kg / 154lb,CM,Right,63,70,79,82,70,67,28,Spain,LALIGA EA SPORTS,Real Madrid
+774,Mylène Chavas,"178cm / 5'10""",63kg / 139lb,GK,Left,79,78,75,81,39,79,27,France,Liga F,Real Madrid CF
+775,Ben Chilwell,"181cm / 5'11""",77kg / 170lb,LB,Left,76,60,78,77,75,72,28,England,Premier League,Chelsea
+776,Hawa Cissoko,"171cm / 5'7""",56kg / 123lb,CB,Right,51,34,60,54,79,79,27,France,Calcio A Femminile,Roma
+777,Jordy Clasie,"170cm / 5'7""",68kg / 150lb,CDM,Right,57,64,79,75,72,69,33,Holland,Eredivisie,AZ
+778,Sam Coffey,"164cm / 5'5""",60kg / 132lb,CM,Right,73,72,79,75,77,77,26,United States,NWSL,Portland Thorns
+779,Aldana Cometti,"168cm / 5'6""",56kg / 123lb,CB,Right,62,30,56,63,80,80,29,Argentina,Liga F,Madrid CFF
+780,Dante,"188cm / 6'2""",89kg / 196lb,CB,Left,32,52,69,65,81,79,41,Brazil,Ligue 1 McDonald's,OGC Nice
+781,Jovana Damnjanović,"170cm / 5'7""",64kg / 141lb,ST,Right,79,77,70,77,43,77,30,Serbia,GPFBL,FC Bayern München
+782,Andreia Jacinto,"169cm / 5'7""",59kg / 130lb,CM,Right,74,68,76,76,64,70,22,Portugal,Liga F,Real Sociedad
+783,Charles De Ketelaere,"192cm / 6'4""",79kg / 174lb,CAM,Left,69,77,78,81,55,70,24,Belgium,Serie A Enilive,Bergamo Calcio
+784,Marten de Roon,"185cm / 6'1""",76kg / 168lb,CM,Right,64,71,75,75,82,83,33,Holland,Serie A Enilive,Bergamo Calcio
+785,Tainara,"169cm / 5'7""",61kg / 134lb,CB,Right,54,46,65,68,82,71,25,Brazil,GPFBL,FC Bayern München
+786,Romain Del Castillo,"172cm / 5'8""",65kg / 143lb,RW,Left,84,76,78,81,42,65,28,France,Ligue 1 McDonald's,Stade Brestois 29
+787,Kristin Demann,"169cm / 5'7""",63kg / 139lb,CDM,Right,65,52,77,71,77,77,31,Germany,GPFBL,VfL Wolfsburg
+788,Savannah DeMelo,"163cm / 5'4""",57kg / 126lb,CAM,Right,66,76,78,80,52,67,26,United States,NWSL,Rac. Louisville
+789,Ermedin Demirović,"185cm / 6'1""",84kg / 185lb,ST,Right,69,81,72,77,41,79,26,Bosnia and Herzegovina,Bundesliga,VfB Stuttgart
+790,Sergiño Dest,"173cm / 5'8""",68kg / 150lb,LB,Right,91,60,75,82,72,69,24,United States,Eredivisie,PSV
+791,Boulaye Dia,"180cm / 5'11""",75kg / 165lb,ST,Right,81,80,62,77,27,75,28,Senegal,Serie A Enilive,Latium
+792,Samuel Lino,"170cm / 5'7""",69kg / 152lb,LM,Right,83,70,73,80,51,66,25,Brazil,LALIGA EA SPORTS,Atlético de Madrid
+793,Lucas Digne,"178cm / 5'10""",74kg / 163lb,LB,Left,73,68,78,76,76,74,31,France,Premier League,Aston Villa
+794,Stole Dimitrievski,"188cm / 6'2""",84kg / 185lb,GK,Right,78,80,74,79,36,78,31,North Macedonia,LALIGA EA SPORTS,Valencia CF
+795,Axel Disasi,"190cm / 6'3""",86kg / 190lb,CB,Right,57,48,60,59,80,81,26,France,Premier League,Chelsea
+796,Alexander Djiku,"182cm / 6'0""",81kg / 179lb,CB,Right,75,43,67,69,79,81,30,Ghana,Trendyol Süper Lig,Fenerbahçe
+797,Cheick Doucouré,"180cm / 5'11""",73kg / 161lb,CDM,Right,65,57,70,75,76,76,25,Mali,Premier League,Crystal Palace
+798,Lewis Dunk,"192cm / 6'4""",88kg / 194lb,CB,Right,41,52,68,65,80,80,33,England,Premier League,Brighton
+799,Hugo Duro,"177cm / 5'10""",70kg / 154lb,ST,Left,73,79,67,76,47,75,25,Spain,LALIGA EA SPORTS,Valencia CF
+800,Lauren,"178cm / 5'10""",65kg / 143lb,CB,Right,72,33,56,63,82,74,22,Brazil,Liga F,Atlético de Madrid
+801,Marcus Edwards,"168cm / 5'6""",65kg / 143lb,RW,Left,85,70,72,85,30,48,26,England,Liga Portugal,Sporting CP
+802,Stephan El Shaarawy,"178cm / 5'10""",73kg / 161lb,LM,Right,82,75,76,83,49,62,32,Italy,Serie A Enilive,AS Roma
+803,Eljif Elmas,"184cm / 6'0""",78kg / 172lb,CAM,Right,73,72,74,82,66,67,25,North Macedonia,Bundesliga,RB Leipzig
+804,Aritz Elustondo,"180cm / 5'11""",71kg / 157lb,RB,Right,64,39,64,61,80,77,30,Spain,LALIGA EA SPORTS,Real Sociedad
+805,Meret Felde,"170cm / 5'7""",63kg / 139lb,CM,Left,55,71,76,75,71,71,25,Germany,GPFBL,SC Freiburg
+806,Jana Feldkamp,"171cm / 5'7""",60kg / 132lb,CDM,Right,72,63,67,74,81,77,26,Germany,GPFBL,TSG Hoffenheim
+807,Lewis Ferguson,"181cm / 5'11""",75kg / 165lb,CM,Right,75,78,75,80,73,82,25,Scotland,Serie A Enilive,Bologna
+808,Mark Flekken,"195cm / 6'5""",87kg / 192lb,GK,Right,80,74,83,82,32,77,31,Holland,Premier League,Brentford
+809,Louise Fleury,"167cm / 5'6""",59kg / 130lb,LM,Left,85,73,75,78,44,65,27,France,Arkema PL,FC Nantes
+810,Emil Forsberg,"177cm / 5'10""",76kg / 168lb,CAM,Right,65,72,81,81,36,61,33,Sweden,MLS,Red Bulls
+811,Chris Führich,"181cm / 5'11""",70kg / 154lb,LM,Right,83,69,72,85,51,59,27,Germany,Bundesliga,VfB Stuttgart
+812,Rocío Gálvez,"174cm / 5'9""",68kg / 150lb,CB,Right,69,29,54,65,79,77,27,Spain,Liga F,Real Madrid CF
+813,Shei,"162cm / 5'4""",49kg / 108lb,RB,Right,85,75,73,80,73,68,27,Spain,Liga F,Real Madrid CF
+814,Álvaro García,"167cm / 5'6""",61kg / 134lb,LM,Left,88,69,75,78,51,43,32,Spain,LALIGA EA SPORTS,Rayo Vallecano
+815,Alejandro Garnacho,"180cm / 5'11""",72kg / 159lb,LM,Right,86,75,72,81,37,59,20,Argentina,Premier League,Man Utd
+816,Lutsharel Geertruida,"185cm / 6'1""",70kg / 154lb,CB,Right,75,57,70,76,79,78,24,Holland,Bundesliga,RB Leipzig
+817,Morgan Gibbs-White,"179cm / 5'10""",72kg / 159lb,CAM,Right,75,74,79,80,57,69,25,England,Premier League,Nott'm Forest
+818,Carles Gil,"170cm / 5'7""",65kg / 143lb,CAM,Left,70,71,80,79,38,62,32,Spain,MLS,New England
+819,Gemma Gili,"175cm / 5'9""",58kg / 128lb,CM,Right,64,71,74,76,74,79,30,Spain,Liga F,Sevilla FC
+820,Santiago Giménez,"182cm / 6'0""",69kg / 152lb,ST,Left,79,80,70,76,49,75,23,Mexico,Eredivisie,Feyenoord
+821,Moi Gómez,"176cm / 5'9""",73kg / 161lb,CM,Right,66,75,80,78,61,61,30,Spain,LALIGA EA SPORTS,CA Osasuna
+822,João Neves,"174cm / 5'9""",66kg / 146lb,CM,Right,81,68,75,80,75,80,20,Portugal,Ligue 1 McDonald's,Paris SG
+823,Robin Gosens,"183cm / 6'0""",76kg / 168lb,LB,Left,72,74,73,75,76,80,30,Germany,Serie A Enilive,Fiorentina
+824,Dominika Grabowska,"165cm / 5'5""",55kg / 121lb,CM,Left,65,72,81,83,63,63,26,Poland,GPFBL,TSG Hoffenheim
+825,Mason Greenwood,"181cm / 5'11""",70kg / 154lb,RM,Left,83,80,75,81,36,60,23,England,Ligue 1 McDonald's,OM
+826,Jackie Groenen,"165cm / 5'5""",60kg / 132lb,CM,Right,79,65,81,80,71,72,30,Holland,Arkema PL,Paris SG
+827,Maria-Luisa Grohs,"180cm / 5'11""",70kg / 154lb,GK,Right,77,78,74,77,54,79,23,Germany,GPFBL,FC Bayern München
+828,Shea Groom,"168cm / 5'6""",60kg / 132lb,CM,Right,80,73,78,77,61,59,32,United States,NWSL,Chicago Red Stars
+829,Guruzeta,"188cm / 6'2""",80kg / 176lb,ST,Right,75,79,71,78,42,80,28,Spain,LALIGA EA SPORTS,Athletic Club
+830,Sébastien Haller,"191cm / 6'3""",90kg / 198lb,ST,Right,56,79,63,75,51,73,30,Côte d'Ivoire,LALIGA EA SPORTS,CD Leganés
+831,Isabella Hartig,"171cm / 5'7""",61kg / 134lb,CM,Right,68,71,75,77,72,78,27,Germany,GPFBL,TSG Hoffenheim
+832,Dean Henderson,"188cm / 6'2""",85kg / 187lb,GK,Right,80,76,78,81,55,75,27,England,Premier League,Crystal Palace
+833,Franck Honorat,"180cm / 5'11""",70kg / 154lb,RM,Right,80,77,77,78,53,63,28,France,Bundesliga,M'gladbach
+834,Hiroki Ito,"188cm / 6'2""",84kg / 185lb,CB,Left,77,57,71,72,80,75,25,Japan,Bundesliga,FC Bayern München
+835,Nicolas Jackson,"187cm / 6'2""",78kg / 172lb,ST,Right,83,78,65,80,40,73,23,Senegal,Premier League,Chelsea
+836,Oriane Jean-François,"164cm / 5'5""",58kg / 128lb,CDM,Right,71,67,71,72,79,74,23,France,Barclays WSL,Chelsea
+837,Stina Johannes,"177cm / 5'10""",66kg / 146lb,GK,Right,77,78,76,76,52,79,25,Germany,GPFBL,Frankfurt
+838,Curtis Jones,"185cm / 6'1""",75kg / 165lb,CM,Right,68,71,75,81,70,75,24,England,Premier League,Liverpool
+839,Luka Jović,"181cm / 5'11""",85kg / 187lb,ST,Right,75,79,68,79,30,72,27,Serbia,Serie A Enilive,Milano FC
+840,İrfan Can Kahveci,"176cm / 5'9""",75kg / 165lb,RW,Left,73,79,79,80,58,66,29,Turkey,Trendyol Süper Lig,Fenerbahçe
+841,Alanna Kennedy,"177cm / 5'10""",66kg / 146lb,CB,Right,49,46,71,65,80,76,30,Australia,Barclays WSL,Manchester City
+842,Lukas Klostermann,"187cm / 6'2""",88kg / 194lb,CB,Right,82,50,64,70,81,76,28,Germany,Bundesliga,RB Leipzig
+843,Robin Koch,"191cm / 6'3""",85kg / 187lb,CB,Right,65,38,61,65,80,76,28,Germany,Bundesliga,Frankfurt
+844,Sead Kolašinac,"183cm / 6'0""",85kg / 187lb,CB,Left,64,63,67,68,79,83,31,Bosnia and Herzegovina,Serie A Enilive,Bergamo Calcio
+845,Geoffrey Kondogbia,"188cm / 6'2""",76kg / 168lb,CM,Left,67,71,75,75,80,88,32,Central African Republic,Ligue 1 McDonald's,OM
+846,Melissa Kössler,"178cm / 5'10""",66kg / 146lb,ST,Right,82,80,68,76,45,78,25,Germany,GPFBL,TSG Hoffenheim
+847,Erik Lamela,"184cm / 6'0""",75kg / 165lb,RW,Left,76,77,78,82,54,68,33,Argentina,Hellas Liga,AEK Athens
+848,Noa Lang,"179cm / 5'10""",69kg / 152lb,LW,Right,82,75,72,84,50,70,25,Holland,Eredivisie,PSV
+849,Manuel Lazzari,"174cm / 5'9""",67kg / 148lb,RB,Right,93,62,76,82,70,66,31,Italy,Serie A Enilive,Latium
+850,Lee Kang In,"173cm / 5'8""",66kg / 146lb,CAM,Left,74,74,80,82,50,66,24,Korea Republic,Ligue 1 McDonald's,Paris SG
+851,Pierre Lees-Melou,"186cm / 6'1""",70kg / 154lb,CDM,Right,62,72,78,77,73,76,31,France,Ligue 1 McDonald's,Stade Brestois 29
+852,Mario Lemina,"184cm / 6'0""",85kg / 187lb,CDM,Right,69,67,75,75,78,80,31,Gabon,Premier League,Wolves
+853,Martina Lenzini,"173cm / 5'8""",63kg / 139lb,RB,Right,74,40,70,67,79,76,26,Italy,Calcio A Femminile,Juventus
+854,Jefferson Lerma,"179cm / 5'10""",70kg / 154lb,CDM,Right,72,71,71,74,77,81,30,Colombia,Premier League,Crystal Palace
+855,Elene Lete,"173cm / 5'8""",66kg / 146lb,GK,Right,80,75,75,80,54,78,22,Spain,Liga F,Real Sociedad
+856,Marie Levasseur,"172cm / 5'8""",63kg / 139lb,RB,Right,74,66,65,74,77,74,27,Canada,Arkema PL,Montpellier
+857,Philipp Lienhart,"189cm / 6'2""",85kg / 187lb,CB,Right,69,28,59,64,81,75,28,Austria,Bundesliga,SC Freiburg
+858,Matheus,"190cm / 6'3""",84kg / 185lb,GK,Right,82,75,81,80,45,77,32,Brazil,Liga Portugal,SC Braga
+859,Katie Lind,"178cm / 5'10""",66kg / 146lb,CB,Right,53,43,57,63,83,69,31,United States,NWSL,Houston Dash
+860,Hugo Lloris,"188cm / 6'2""",82kg / 181lb,GK,Left,81,76,67,82,54,78,38,France,MLS,LAFC
+861,Pedro Neto,"172cm / 5'8""",62kg / 137lb,RW,Left,88,74,72,83,31,59,25,Portugal,Premier League,Chelsea
+862,Anthony Lopes,"184cm / 6'0""",81kg / 179lb,GK,Left,80,76,69,83,65,76,34,Portugal,Ligue 1 McDonald's,OL
+863,Maitane,"176cm / 5'9""",61kg / 134lb,CB,Right,70,63,76,74,79,83,29,Spain,NWSL,NJ/NY Gotham
+864,Pau López,"189cm / 6'2""",77kg / 170lb,GK,Left,77,77,79,82,48,80,30,Spain,LALIGA EA SPORTS,Girona FC
+865,Castello Lukeba,"184cm / 6'0""",73kg / 161lb,CB,Left,70,43,68,73,80,73,22,France,Bundesliga,RB Leipzig
+866,Dodi Lukébakio,"187cm / 6'2""",77kg / 170lb,RW,Left,84,78,70,82,31,59,27,Belgium,LALIGA EA SPORTS,Sevilla FC
+867,Robert Sánchez,"197cm / 6'6""",90kg / 198lb,GK,Right,79,77,75,80,58,79,27,Spain,Premier League,Chelsea
+868,Ian Maatsen,"178cm / 5'10""",63kg / 139lb,LB,Left,86,65,75,81,72,63,23,Holland,Premier League,Aston Villa
+869,Pablo Maffeo,"172cm / 5'8""",70kg / 154lb,RB,Right,82,52,70,79,76,70,27,Argentina,LALIGA EA SPORTS,RCD Mallorca
+870,José Sá,"192cm / 6'4""",84kg / 185lb,GK,Right,80,75,70,81,52,78,32,Portugal,Premier League,Wolves
+871,Noëlle Maritz,"165cm / 5'5""",58kg / 128lb,RB,Right,77,47,75,72,79,73,29,Switzerland,Barclays WSL,Aston Villa
+872,Omar Marmoush,"183cm / 6'0""",81kg / 179lb,ST,Right,89,78,66,83,32,71,26,Egypt,Bundesliga,Frankfurt
+873,Arnau Martínez,"182cm / 6'0""",72kg / 159lb,RB,Right,80,50,72,74,74,70,21,Spain,LALIGA EA SPORTS,Girona FC
+874,Adam Marušić,"185cm / 6'1""",81kg / 179lb,LB,Right,87,66,67,74,76,80,32,Montenegro,Serie A Enilive,Latium
+875,Jean-Philippe Mateta,"192cm / 6'4""",88kg / 194lb,ST,Right,76,78,63,73,39,82,27,France,Premier League,Crystal Palace
+876,Sarah Mayling,"166cm / 5'5""",58kg / 128lb,RB,Right,70,59,71,71,78,76,27,England,Barclays WSL,Aston Villa
+877,Borja Mayoral,"182cm / 6'0""",74kg / 163lb,ST,Right,71,80,71,77,39,67,27,Spain,LALIGA EA SPORTS,Getafe CF
+878,Chancel Mbemba,"182cm / 6'0""",81kg / 179lb,CB,Right,73,57,65,68,80,81,30,Congo DR,Ligue 1 McDonald's,OM
+879,Callum McGregor,"178cm / 5'10""",74kg / 163lb,CDM,Left,79,74,77,80,71,78,31,Scotland,Scottish Prem,Celtic
+880,Kristen McNabb,"164cm / 5'5""",57kg / 126lb,LB,Left,75,49,71,73,77,64,30,United States,NWSL,San Diego Wave
+881,Medrán,"178cm / 5'10""",71kg / 157lb,CM,Right,60,71,82,79,63,69,30,Spain,ROSHN Saudi League,Ettifaq FC
+882,Maria Méndez,"173cm / 5'8""",65kg / 143lb,CB,Right,76,55,69,65,79,76,23,Spain,Liga F,Real Madrid CF
+883,Kristie Mewis,"170cm / 5'7""",64kg / 141lb,CM,Left,84,72,76,81,59,79,34,United States,Barclays WSL,West Ham
+884,Nikola Milenković,"195cm / 6'5""",90kg / 198lb,CB,Right,58,45,62,62,79,82,27,Serbia,Premier League,Nott'm Forest
+885,Moeka Minami,"172cm / 5'8""",62kg / 137lb,CB,Right,64,56,58,70,80,73,26,Japan,Calcio A Femminile,Roma
+886,Takumi Minamino,"172cm / 5'8""",67kg / 148lb,CAM,Right,79,74,75,82,40,64,30,Japan,Ligue 1 McDonald's,AS Monaco
+887,Tyrone Mings,"196cm / 6'5""",77kg / 170lb,CB,Left,64,44,67,64,78,80,31,England,Premier League,Aston Villa
+888,Maximilian Mittelstädt,"180cm / 5'11""",71kg / 157lb,LB,Left,74,62,72,77,77,72,27,Germany,Bundesliga,VfB Stuttgart
+889,Caroline Møller,"178cm / 5'10""",64kg / 141lb,ST,Right,76,78,70,79,45,75,26,Denmark,Liga F,Real Madrid CF
+890,Álex Moreno,"179cm / 5'10""",68kg / 150lb,LB,Left,79,66,74,77,76,68,31,Spain,Premier League,Nott'm Forest
+891,Hidemasa Morita,"177cm / 5'10""",69kg / 152lb,CM,Right,69,72,76,79,74,77,29,Japan,Liga Portugal,Sporting CP
+892,Florentino,"184cm / 6'0""",76kg / 168lb,CDM,Right,55,47,65,73,79,78,25,Portugal,Liga Portugal,SL Benfica
+893,Hany Mukhtar,"173cm / 5'8""",71kg / 157lb,CAM,Right,82,75,77,80,44,64,29,Germany,MLS,Nashville SC
+894,Nordi Mukiele,"187cm / 6'2""",84kg / 185lb,RB,Right,77,49,68,71,80,80,27,France,Bundesliga,Leverkusen
+895,Marie Müller,"168cm / 5'6""",60kg / 132lb,LB,Right,81,69,78,80,76,69,24,Germany,NWSL,Portland Thorns
+896,Zećira Mušović,"180cm / 5'11""",73kg / 161lb,GK,Right,80,82,79,75,40,77,28,Sweden,Barclays WSL,Chelsea
+897,Juan Musso,"191cm / 6'3""",93kg / 205lb,GK,Right,79,77,73,82,44,81,30,Argentina,LALIGA EA SPORTS,Atlético de Madrid
+898,Adriana Nanclares,"170cm / 5'7""",52kg / 115lb,GK,Left,80,75,70,81,45,78,22,Spain,Liga F,Athletic Club
+899,Galeno,"179cm / 5'10""",62kg / 137lb,LM,Right,93,76,70,82,38,68,27,Brazil,Liga Portugal,FC Porto
+900,Kika Nazareth,"170cm / 5'7""",67kg / 148lb,CAM,Right,79,76,75,80,55,66,22,Portugal,Liga F,FC Barcelona
+901,Matt O'Riley,"188cm / 6'2""",77kg / 170lb,CM,Left,69,77,80,77,67,76,24,Denmark,Premier League,Brighton
+902,Jonas Omlin,"190cm / 6'3""",85kg / 187lb,GK,Right,79,77,76,82,52,75,31,Switzerland,Bundesliga,M'gladbach
+903,Maite Oroz,"155cm / 5'1""",49kg / 108lb,CM,Right,77,66,76,83,63,73,26,Spain,Liga F,Real Madrid CF
+904,Salma Paralluelo,"175cm / 5'9""",68kg / 150lb,LW,Left,93,79,71,80,45,76,21,Spain,Liga F,FC Barcelona
+905,Jess Park,"161cm / 5'3""",56kg / 123lb,RW,Right,84,70,71,83,41,58,23,England,Barclays WSL,Manchester City
+906,Julie Pasquereau,"176cm / 5'9""",64kg / 141lb,CB,Right,56,38,65,60,80,80,30,France,Arkema PL,FC Nantes
+907,Toni Payne,"161cm / 5'3""",55kg / 121lb,RM,Right,89,73,74,77,72,81,29,Nigeria,Barclays WSL,Everton
+908,Ayoze Pérez,"178cm / 5'10""",72kg / 159lb,LM,Right,78,73,76,82,58,65,31,Spain,LALIGA EA SPORTS,Villarreal CF
+909,Mattia Perin,"188cm / 6'2""",77kg / 170lb,GK,Right,79,79,71,81,57,79,32,Italy,Serie A Enilive,Juventus
+910,Matteo Pessina,"187cm / 6'2""",77kg / 170lb,CM,Left,68,70,77,78,72,71,27,Italy,Serie A Enilive,Monza
+911,Lena Petermann,"175cm / 5'9""",65kg / 143lb,ST,Right,69,80,66,74,43,75,31,Germany,Barclays WSL,Leicester City
+912,Đorđe Petrović,"194cm / 6'4""",88kg / 194lb,GK,Right,79,78,73,81,41,77,25,Serbia,Ligue 1 McDonald's,Strasbourg
+913,Ethan Pinnock,"194cm / 6'4""",79kg / 174lb,CB,Left,67,36,56,61,81,83,31,Jamaica,Premier League,Brentford
+914,Yeremy Pino,"172cm / 5'8""",60kg / 132lb,LM,Right,76,73,76,79,38,46,22,Spain,LALIGA EA SPORTS,Villarreal CF
+915,Nichelle Prince,"163cm / 5'4""",65kg / 143lb,RM,Right,82,73,72,79,40,57,30,Canada,NWSL,KC Current
+916,Soufiane Rahimi,"181cm / 5'11""",79kg / 174lb,LM,Right,85,77,73,78,38,66,28,Morocco,United Emirates League,Al Ain FC
+917,Gonçalo Ramos,"185cm / 6'1""",82kg / 181lb,ST,Right,76,77,64,77,47,81,23,Portugal,Ligue 1 McDonald's,Paris SG
+918,Antonee Robinson,"182cm / 6'0""",70kg / 154lb,LB,Left,88,46,71,77,74,77,27,United States,Premier League,Fulham
+919,Rocky Rodríguez,"165cm / 5'5""",63kg / 139lb,CDM,Right,50,76,77,79,73,84,31,Costa Rica,NWSL,Angel City FC
+920,Cinta Rodríguez,"178cm / 5'10""",67kg / 148lb,CB,Right,72,46,69,67,80,79,25,Spain,Liga F,UD Tenerife
+921,Kaku,"171cm / 5'7""",67kg / 148lb,CAM,Left,81,72,81,80,52,64,30,Paraguay,United Emirates League,Al Ain FC
+922,Oriol Romeu,"183cm / 6'0""",83kg / 183lb,CDM,Right,40,54,68,67,79,81,33,Spain,LALIGA EA SPORTS,Girona FC
+923,Valentin Rongier,"172cm / 5'8""",67kg / 148lb,CDM,Right,65,65,75,78,75,78,30,France,Ligue 1 McDonald's,OM
+924,Frederik Rønnow,"188cm / 6'2""",81kg / 179lb,GK,Right,79,79,69,81,47,78,32,Denmark,Bundesliga,Union Berlin
+925,Gerónimo Rulli,"189cm / 6'2""",84kg / 185lb,GK,Right,78,76,80,81,54,79,32,Argentina,Ligue 1 McDonald's,OM
+926,Julian Ryerson,"183cm / 6'0""",82kg / 181lb,RB,Right,75,63,70,76,76,80,27,Norway,Bundesliga,Borussia Dortmund
+927,María Sánchez,"163cm / 5'4""",52kg / 115lb,LM,Left,85,72,75,79,43,70,29,Mexico,NWSL,San Diego Wave
+928,Pape Matar Sarr,"184cm / 6'0""",70kg / 154lb,CDM,Right,70,65,75,78,76,75,22,Senegal,Premier League,Spurs
+929,Gianluca Scamacca,"195cm / 6'5""",85kg / 187lb,ST,Right,65,81,67,74,36,74,26,Italy,Serie A Enilive,Bergamo Calcio
+930,Perr Schuurs,"191cm / 6'3""",85kg / 187lb,CB,Right,69,64,74,69,81,74,25,Holland,Serie A Enilive,Torino
+931,Benjamin Šeško,"195cm / 6'5""",85kg / 187lb,ST,Right,85,78,63,77,46,78,21,Slovenia,Bundesliga,RB Leipzig
+932,Risa Shimizu,"160cm / 5'3""",47kg / 104lb,RB,Right,81,53,71,71,78,60,28,Japan,Barclays WSL,Manchester City
+933,Mário Rui,"170cm / 5'7""",67kg / 148lb,LB,Left,80,56,77,80,74,68,33,Portugal,Serie A Enilive,SSC Napoli
+934,Wilfried Singo,"190cm / 6'3""",79kg / 174lb,CB,Right,77,57,70,73,77,83,24,Côte d'Ivoire,Ligue 1 McDonald's,AS Monaco
+935,Łukasz Skorupski,"188cm / 6'2""",90kg / 198lb,GK,Right,79,76,68,83,51,78,33,Poland,Serie A Enilive,Bologna
+936,Katja Snoeijs,"172cm / 5'8""",63kg / 139lb,ST,Right,80,81,66,79,43,69,28,Holland,Barclays WSL,Everton
+937,Tomáš Souček,"192cm / 6'4""",86kg / 190lb,CDM,Right,50,72,71,68,80,83,30,Czech Republic,Premier League,West Ham
+938,Leonardo Spinazzola,"186cm / 6'1""",75kg / 165lb,LM,Right,88,65,74,79,76,69,31,Italy,Serie A Enilive,SSC Napoli
+939,Sofie Svava,"173cm / 5'8""",67kg / 148lb,LB,Left,83,53,72,77,76,79,24,Denmark,Arkema PL,OL
+940,Kateřina Svitková,"167cm / 5'6""",60kg / 132lb,CAM,Right,74,76,76,83,71,69,28,Czech Republic,Ceska Liga Žen,Slavia Praha
+941,António Silva,"187cm / 6'2""",82kg / 181lb,CB,Right,80,37,64,69,79,80,21,Portugal,Liga Portugal,SL Benfica
+942,Pietro Terracciano,"193cm / 6'4""",78kg / 172lb,GK,Right,80,77,73,83,41,79,35,Italy,Serie A Enilive,Fiorentina
+943,Martin Terrier,"184cm / 6'0""",71kg / 157lb,ST,Right,82,80,75,79,36,72,28,France,Bundesliga,Leverkusen
+944,Kieran Tierney,"180cm / 5'11""",73kg / 161lb,LB,Left,80,60,75,77,76,75,27,Scotland,Premier League,Arsenal
+945,Jurriën Timber,"179cm / 5'10""",78kg / 172lb,CB,Right,78,47,67,76,80,78,23,Holland,Premier League,Arsenal
+946,Quinten Timber,"179cm / 5'10""",71kg / 157lb,CM,Right,77,76,75,79,75,81,23,Holland,Eredivisie,Feyenoord
+947,Rafael Tolói,"185cm / 6'1""",75kg / 165lb,CB,Right,61,52,58,64,81,79,34,Italy,Serie A Enilive,Bergamo Calcio
+948,Paula Tomás,"170cm / 5'7""",61kg / 134lb,LB,Right,82,49,75,76,77,76,23,Spain,Barclays WSL,Aston Villa
+949,Maddi Torre,"172cm / 5'8""",61kg / 134lb,CB,Right,63,56,76,70,82,74,28,Spain,Liga F,Athletic Club
+950,Phallon Tullis-Joyce,"185cm / 6'1""",61kg / 134lb,GK,Right,80,74,75,80,44,80,28,United States,Barclays WSL,Manchester Utd
+951,Edin Višća,"172cm / 5'8""",63kg / 139lb,RM,Right,82,78,76,81,47,63,35,Bosnia and Herzegovina,Trendyol Süper Lig,Trabzonspor
+952,Nikola Vlašić,"179cm / 5'10""",79kg / 174lb,CAM,Right,75,76,76,82,58,72,27,Croatia,Serie A Enilive,Torino
+953,Aaron Wan-Bissaka,"183cm / 6'0""",72kg / 159lb,RB,Right,82,51,68,77,77,72,27,England,Premier League,West Ham
+954,Wang Shuang,"165cm / 5'5""",59kg / 130lb,RW,Left,84,78,74,79,42,71,30,China PR,Barclays WSL,Spurs
+955,James Ward-Prowse,"173cm / 5'8""",66kg / 146lb,CM,Right,57,73,86,75,66,72,30,England,Premier League,Nott'm Forest
+956,Morgan Weaver,"178cm / 5'10""",65kg / 143lb,LW,Right,83,78,77,78,45,77,27,United States,NWSL,Portland Thorns
+957,Julian Weigl,"186cm / 6'1""",77kg / 170lb,CDM,Right,54,64,76,75,74,73,29,Germany,Bundesliga,M'gladbach
+958,Yoane Wissa,"176cm / 5'9""",74kg / 163lb,LW,Right,85,79,70,79,29,71,28,Congo DR,Premier League,Brentford
+959,Arin Wright,"168cm / 5'6""",60kg / 132lb,CB,Right,66,54,67,75,80,77,32,United States,NWSL,Rac. Louisville
+960,Denis Zakaria,"190cm / 6'3""",81kg / 179lb,CDM,Right,80,67,72,76,78,84,28,Switzerland,Ligue 1 McDonald's,AS Monaco
+961,Davide Zappacosta,"182cm / 6'0""",75kg / 165lb,LB,Right,76,68,74,75,76,70,32,Italy,Serie A Enilive,Bergamo Calcio
+962,Edon Zhegrova,"181cm / 5'11""",66kg / 146lb,RM,Left,85,71,76,82,25,62,25,Kosovo,Ligue 1 McDonald's,LOSC Lille
+963,Oleksandr Zinchenko,"175cm / 5'9""",64kg / 141lb,LB,Left,66,66,83,82,76,69,28,Ukraine,Premier League,Arsenal
+964,Joshua Zirkzee,"193cm / 6'4""",89kg / 196lb,ST,Right,73,77,72,83,37,73,23,Holland,Premier League,Man Utd
+965,Carlos Augusto,"184cm / 6'0""",75kg / 165lb,LM,Left,81,72,77,80,75,80,26,Brazil,Serie A Enilive,Lombardia FC
+966,Saud Abdulhamid,"175cm / 5'9""",70kg / 154lb,RB,Right,92,46,67,72,71,77,25,Saudi Arabia,Serie A Enilive,AS Roma
+967,Tammy Abraham,"195cm / 6'5""",86kg / 190lb,ST,Right,78,76,65,75,36,77,27,England,Serie A Enilive,Milano FC
+968,Tosin Adarabioyo,"196cm / 6'5""",80kg / 176lb,CB,Right,72,35,63,63,78,78,27,England,Premier League,Chelsea
+969,Amine Adli,"174cm / 5'9""",72kg / 159lb,ST,Left,83,76,69,82,42,74,24,Morocco,Bundesliga,Leverkusen
+970,Joseph Aidoo,"181cm / 5'11""",80kg / 176lb,CB,Right,75,27,47,50,77,88,29,Ghana,LALIGA EA SPORTS,RC Celta
+971,Laia Aleixandri,"170cm / 5'7""",55kg / 121lb,CB,Right,75,30,58,54,79,73,24,Spain,Barclays WSL,Manchester City
+972,Miguel Almirón,"174cm / 5'9""",70kg / 154lb,RW,Left,87,75,73,80,57,65,31,Paraguay,Premier League,Newcastle Utd
+973,Nadiem Amiri,"180cm / 5'11""",75kg / 165lb,CM,Right,67,74,80,82,60,69,28,Germany,Bundesliga,1. FSV Mainz 05
+974,Sofyan Amrabat,"183cm / 6'0""",77kg / 170lb,CDM,Right,65,69,73,75,74,80,28,Morocco,Trendyol Süper Lig,Fenerbahçe
+975,Filippa Angeldahl,"170cm / 5'7""",63kg / 139lb,CM,Right,74,66,75,77,68,67,27,Sweden,Liga F,Real Madrid CF
+976,Michail Antonio,"180cm / 5'11""",82kg / 181lb,ST,Right,77,74,72,76,54,82,34,Jamaica,Premier League,West Ham
+977,Mauro Arambarri,"175cm / 5'9""",74kg / 163lb,CDM,Right,60,65,72,74,78,78,29,Uruguay,LALIGA EA SPORTS,Getafe CF
+978,Cristian Arango,"178cm / 5'10""",78kg / 172lb,ST,Right,75,79,71,77,36,74,30,Colombia,MLS,Real Salt Lake
+979,Ana Vitória,"173cm / 5'8""",59kg / 130lb,CAM,Right,73,72,76,79,51,69,25,Brazil,Liga F,Atlético de Madrid
+980,Benoît Badiashile,"194cm / 6'4""",75kg / 165lb,CB,Left,62,47,67,60,78,77,23,France,Premier League,Chelsea
+981,Antonín Barák,"190cm / 6'3""",86kg / 190lb,CM,Left,69,77,79,79,65,73,30,Czech Republic,Trendyol Süper Lig,Kasımpaşa
+982,Ricardo Pereira,"175cm / 5'9""",70kg / 154lb,RB,Right,73,66,76,77,77,71,31,Portugal,Premier League,Leicester City
+983,Melvin Bard,"173cm / 5'8""",65kg / 143lb,LB,Left,78,52,69,74,75,76,24,France,Ligue 1 McDonald's,OGC Nice
+984,Ross Barkley,"186cm / 6'1""",76kg / 168lb,CM,Right,53,75,78,77,63,74,31,England,Premier League,Aston Villa
+985,Marc Bartra,"184cm / 6'0""",73kg / 161lb,CB,Right,68,61,71,72,78,75,34,Spain,LALIGA EA SPORTS,Real Betis
+986,Sharon Beck,"180cm / 5'11""",68kg / 150lb,CAM,Left,75,75,74,80,62,80,29,Israel,GPFBL,SV Werder Bremen
+987,Maximilian Beier,"185cm / 6'1""",72kg / 159lb,ST,Right,89,79,65,79,26,60,22,Germany,Bundesliga,Borussia Dortmund
+988,Andrea Belotti,"181cm / 5'11""",84kg / 185lb,ST,Right,69,77,58,75,38,80,31,Italy,Serie A Enilive,Como
+989,Fran Beltrán,"165cm / 5'5""",64kg / 141lb,CDM,Right,58,56,77,75,76,66,26,Spain,LALIGA EA SPORTS,RC Celta
+990,Saïd Benrahma,"172cm / 5'8""",67kg / 148lb,LW,Right,73,75,75,82,40,57,29,Algeria,Ligue 1 McDonald's,OL
+991,Ramy Bensebaini,"187cm / 6'2""",82kg / 181lb,LB,Left,75,70,70,75,78,77,29,Algeria,Bundesliga,Borussia Dortmund
+992,Nabil Bentaleb,"187cm / 6'2""",78kg / 172lb,CDM,Left,52,72,77,79,71,75,30,Algeria,Ligue 1 McDonald's,LOSC Lille
+993,Mergim Berisha,"188cm / 6'2""",84kg / 185lb,ST,Right,71,79,72,75,37,72,26,Germany,Bundesliga,TSG Hoffenheim
+994,Jan-Niklas Beste,"175cm / 5'9""",66kg / 146lb,LM,Left,78,72,79,76,60,64,26,Germany,Liga Portugal,SL Benfica
+995,Veljko Birmančević,"179cm / 5'10""",69kg / 152lb,RW,Right,78,73,74,81,38,59,27,Serbia,Česká Liga,Sparta Praha
+996,Nathalie Björn,"174cm / 5'9""",67kg / 148lb,CB,Right,77,40,71,65,79,78,27,Sweden,Barclays WSL,Chelsea
+997,Florencia Bonsegundo,"168cm / 5'6""",59kg / 130lb,CAM,Right,74,81,77,81,30,69,31,Argentina,Liga F,Madrid CFF
+998,Olivier Boscagli,"181cm / 5'11""",68kg / 150lb,CB,Left,67,50,75,76,80,75,27,France,Eredivisie,PSV
+999,Lilian Brassier,"186cm / 6'1""",78kg / 172lb,CB,Left,69,37,65,69,79,75,25,France,Ligue 1 McDonald's,OM
